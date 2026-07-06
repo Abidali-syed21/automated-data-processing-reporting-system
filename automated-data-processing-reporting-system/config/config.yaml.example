@@ -1,0 +1,34 @@
+# Copy this file to config/config.yaml and fill in your real values.
+# config/config.yaml is git-ignored so credentials never get committed.
+
+database:
+  host: "localhost"
+  port: 3306
+  user: "root"
+  password: "your_mysql_password"
+  database: "sales_reporting_db"
+
+paths:
+  raw_data_dir: "data/raw"
+  processed_data_dir: "data/processed"
+  reports_dir: "reports"
+  logs_dir: "logs"
+
+etl:
+  chunk_size: 5000          # rows per bulk-insert batch
+  duplicate_subset: ["order_id"]
+  required_columns:
+    - order_id
+    - order_date
+    - customer_name
+    - region
+    - product_category
+    - product_name
+    - quantity
+    - unit_price
+    - discount
+    - payment_method
+
+report:
+  top_n_products: 10
+  currency_symbol: "$"

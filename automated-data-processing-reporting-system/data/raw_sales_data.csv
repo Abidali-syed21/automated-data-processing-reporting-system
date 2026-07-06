@@ -1,0 +1,1516 @@
+order_id,order_date,customer_name,region,product_category,product_name,quantity,unit_price,discount,payment_method
+ORD100495,2024-09-24,Meera Nair,North,Office Supplies,Ballpoint Pens,2,281.52,0.1,Cash on Delivery
+ORD100593,2024-05-28,Divya Reddy,South,Office Supplies,Notebook Pack,7,157.49,0.15,Credit Card
+ORD100991,2025-01-20,Ananya Sharma,North,Groceries,Green Tea Box,1,52.54,0.05,Cash on Delivery
+ORD100914,2025-08-24,Kabir Iyer,West,Groceries,Almonds Pack,6,397.0,0.0,Debit Card
+ORD100686,2024-10-29,Diya Verma,West,Office Supplies,Whiteboard,3,291.17,0.1,Cash on Delivery
+ORD100102,2025-10-03,Meera Gupta,North,Groceries,Olive Oil 1L,1,310.64,0.0,Net Banking
+ORD100444,2025-03-01,Sara Nair,East,Groceries,Coffee Beans 1kg,6,114.49,0.0,UPI
+ORD100777,2024-03-08,Vivaan Patel,West,Furniture,Filing Cabinet,6,229.36,0.0,Debit Card
+ORD100447,2024-01-26,Kabir Nair,Central,Furniture,Monitor Arm,8,245.97,0.0,Credit Card
+ORD100465,2024-08-16,Neha Nair,Central,Furniture,Standing Desk,8,253.06,0.0,Credit Card
+ORD100928,2025-12-16,Vikram Reddy,North,Electronics,Bluetooth Speaker,3,140.52,0.15,Debit Card
+ORD101018,2025-01-10,Rahul Iyer,South,Office Supplies,Whiteboard,6,476.48,0.05,UPI
+ORD101102,2025-07-28,Sara Sharma,South,Office Supplies,Notebook Pack,3,165.25,0.2,Net Banking
+ORD100499,2025-05-02,Ananya Gupta,West,Furniture,Bookshelf,4,447.69,0.0,Debit Card
+ORD101332,2025-01-28,Rahul Sharma,East,Office Supplies,Ballpoint Pens,3,146.06,0.05,Net Banking
+ORD100824,2025-07-24,Ananya Patel,Central,Electronics,Wireless Mouse,6,441.05,0.0,Credit Card
+ORD101440,2024-05-19,Meera Gupta,Central,Furniture,Office Chair,2,129.41,0.1,Cash on Delivery
+ORD100994,2024-10-08,Priya Singh,Central,Groceries,Protein Bars,1,64.4,0.0,Debit Card
+ORD100852,2025-10-01,Vikram Sharma,West,Groceries,Almonds Pack,4,450.62,0.0,UPI
+ORD101187,2024-07-24,Anjali Singh,East,Groceries,Almonds Pack,5,148.28,0.0,UPI
+ORD101438,2024-04-12,Rohan Mehta,Central,Office Supplies,Whiteboard,4,422.4,0.2,Net Banking
+ORD100112,2024-07-24,Ananya Reddy,West,Office Supplies,Whiteboard,6,267.77,0.0,UPI
+ORD101398,2024-02-27,Priya Singh,South,Furniture,Bookshelf,6,221.87,0.0,Credit Card
+ORD100526,2024-10-18,Rohan Reddy,North,Furniture,Filing Cabinet,4,427.47,0.0,Net Banking
+ORD100598,2025-11-07,Meera Nair,East,Office Supplies,Ballpoint Pens,6,466.08,0.0,Net Banking
+ORD100336,2025-10-14,Diya Reddy,East,Groceries,Coffee Beans 1kg,1,220.32,0.0,UPI
+ORD101147,2024-03-17,Divya Iyer,South,Groceries,Coffee Beans 1kg,4,11.5,0.0,Net Banking
+ORD100922,2025-02-24,Rahul Verma,West,Groceries,Green Tea Box,2,68.92,0.05,Debit Card
+ORD100769,2025-05-27,Diya Kapoor,North,Electronics,Webcam HD,5,250.74,0.0,UPI
+ORD101242,2024-09-07,Meera Nair,East,Groceries,Olive Oil 1L,3,304.75,0.2,Credit Card
+ORD101317,2025-07-18,Aditya Sharma,North,Furniture,Office Chair,4,132.82,0.05,Cash on Delivery
+ORD100453,2024-10-15,Rahul Patel,Central,Groceries,Almonds Pack,7,411.95,0.0,Debit Card
+ORD100942,2024-06-24,Neha Patel,East,Furniture,Office Chair,6,490.8,0.15,Debit Card
+ORD100714,2025-01-30,Divya Mehta,North,Furniture,Office Chair,5,175.74,0.0,Debit Card
+ORD100092,2024-07-27,Rahul Verma,North,Furniture,Monitor Arm,3,464.2,0.05,Cash on Delivery
+ORD100463,2025-07-05,Pooja Sharma,Central,Office Supplies,Sticky Notes,2,365.08,0.0,Cash on Delivery
+ORD101349,2024-10-21,Vikram Iyer,West,Groceries,Olive Oil 1L,7,319.21,0.0,Cash on Delivery
+ORD101224,2025-11-25,Anjali Mehta,East,Furniture,Monitor Arm,8,214.8,0.15,Debit Card
+ORD100827,2025-03-24,Priya Mehta,North,Groceries,Coffee Beans 1kg,2,391.92,0.1,Cash on Delivery
+ORD100436,2025-01-25,Ananya Reddy,East,Office Supplies,Notebook Pack,1,103.95,0.2,Debit Card
+ORD101144,2024-10-03,Rohan Kapoor,West,Office Supplies,Desk Organizer,8,64.35,0.0,Net Banking
+ORD101493,2025-09-05,Anjali Reddy,South,Office Supplies,Whiteboard,5,441.56,0.05,UPI
+ORD100574,2025-10-02,Aditya Iyer,North,Furniture,Standing Desk,5,406.89,0.15,Cash on Delivery
+ORD100108,2024-08-30,Meera Sharma,West,Groceries,Olive Oil 1L,6,289.53,0.15,UPI
+ORD100491,2024-07-25,Pooja Gupta,Central,Furniture,Standing Desk,1,393.06,0.1,Debit Card
+ORD100397,2025-10-11,Neha Mehta,East,Electronics,Laptop Stand,4,252.74,0.2,Net Banking
+ORD100547,2025-06-25,Pooja Verma,North,Electronics,Wireless Mouse,5,,0.0,Debit Card
+ORD101222,2025-11-07,Sara Reddy,Central,Furniture,Office Chair,6,468.93,0.1,Debit Card
+ORD100268,2024-04-19,Aditya Verma,South,Electronics,Wireless Mouse,5,225.14,0.2,Credit Card
+ORD100387,2024-10-02,Aarav Singh,South,Groceries,Olive Oil 1L,1,432.99,0.2,Debit Card
+ORD100590,2024-11-27,Kabir Singh,North,Groceries,Coffee Beans 1kg,3,229.57,0.15,UPI
+ORD100786,2025-01-13,Sara Iyer,South,Groceries,Coffee Beans 1kg,1,237.1,0.2,Net Banking
+ORD101167,2024-09-28,Meera Gupta,North,Furniture,Bookshelf,7,296.63,0.0,Cash on Delivery
+ORD100938,2024-02-15,Vikram Gupta,Central,Groceries,Olive Oil 1L,2,408.73,0.0,Debit Card
+ORD100120,2024-10-09,Nikhil Sharma,North,Office Supplies,Notebook Pack,8,50.38,0.0,UPI
+ORD100835,2024-01-09,Kabir Mehta,Central,Furniture,Monitor Arm,3,351.65,0.05,Cash on Delivery
+ORD100772,2025-05-01,Karan Reddy,North,Office Supplies,Sticky Notes,3,184.68,0.15,Cash on Delivery
+ORD100076,2024-04-12,Aarav Mehta,South,Office Supplies,Sticky Notes,4,183.64,0.0,UPI
+ORD100061,2024-05-18,Kabir Singh,East,Groceries,Green Tea Box,1,133.78,0.0,UPI
+ORD100816,2025-05-11,Meera Kapoor,West,Groceries,Coffee Beans 1kg,8,294.69,0.0,Credit Card
+ORD100713,2024-07-18,Neha Patel,West,Groceries,Protein Bars,1,454.68,0.0,UPI
+ORD101109,2024-03-30,Priya Singh,Central,Electronics,Wireless Mouse,1,310.05,0.05,Cash on Delivery
+ORD100205,2025-11-27,Sara Mehta,East,Electronics,Bluetooth Speaker,2,199.98,0.2,Debit Card
+ORD100038,2025-08-19,Vivaan Nair,South,Office Supplies,Ballpoint Pens,3,25.71,0.0,Debit Card
+ORD101462,2024-11-27,Aditya Sharma,West,Office Supplies,Ballpoint Pens,1,126.72,0.0,Debit Card
+ORD101103,2024-05-31,,Central,Groceries,Protein Bars,2,397.05,0.15,Credit Card
+ORD100081,2025-03-15,Priya Gupta,South,Furniture,Monitor Arm,1,306.77,0.15,UPI
+ORD100842,2024-09-10,Divya Verma,South,Electronics,USB-C Hub,4,412.31,0.0,Net Banking
+ORD100212,2025-04-27,Rahul Mehta,West,Electronics,Bluetooth Speaker,4,282.64,0.15,UPI
+ORD100609,2024-10-14,Ananya Kapoor,Central,Electronics,USB-C Hub,7,315.12,0.2,Net Banking
+ORD100054,2025-07-26,Divya Patel,West,Furniture,Filing Cabinet,7,416.13,0.1,Net Banking
+ORD100409,2025-09-12,Priya Reddy,North,Office Supplies,Ballpoint Pens,2,258.23,0.1,Credit Card
+ORD101273,2025-06-23,Ananya Reddy,East,Electronics,Webcam HD,7,396.72,0.0,Credit Card
+ORD100856,2025-09-13,Sara Iyer,South,Furniture,Filing Cabinet,1,248.28,0.0,Net Banking
+ORD100427,2024-01-03,Priya Sharma,South,Furniture,Bookshelf,5,276.11,0.0,Net Banking
+ORD101232,2024-01-17,Priya Verma,Central,Furniture,Monitor Arm,1,302.29,0.0,Net Banking
+ORD101469,2024-06-24,Karan Singh,South,Electronics,Webcam HD,8,281.7,0.0,Credit Card
+ORD101046,2024-09-22,Priya Patel,South,Furniture,Standing Desk,5,355.59,0.1,Credit Card
+ORD101263,2025-05-10,Rahul Singh,West,Office Supplies,Sticky Notes,4,438.14,0.15,Cash on Delivery
+ORD100768,2024-03-06,,North,Groceries,Protein Bars,2,201.46,0.2,Cash on Delivery
+ORD101022,2024-12-24,Rahul Gupta,North,Office Supplies,Ballpoint Pens,6,9.39,0.05,Cash on Delivery
+ORD101041,2025-07-17,Priya Iyer,North,Furniture,Monitor Arm,6,447.98,0.05,Net Banking
+ORD101178,2024-03-31,Pooja Nair,  south  ,Office Supplies,Whiteboard,5,394.38,0.1,Cash on Delivery
+ORD101268,2025-02-12,Sara Sharma,East,Furniture,Office Chair,5,245.33,0.0,Net Banking
+ORD101482,2024-04-12,Divya Mehta,West,Groceries,Green Tea Box,3,498.68,0.0,Net Banking
+ORD101217,2025-05-30,Nikhil Singh,East,Electronics,Wireless Mouse,6,450.71,0.15,Credit Card
+ORD101207,2024-03-15,Nikhil Verma,Central,Electronics,USB-C Hub,2,475.2,0.1,Net Banking
+ORD100103,2024-04-10,Vivaan Nair,North,Electronics,Laptop Stand,3,348.53,0.0,UPI
+ORD101226,2024-10-29,Karan Reddy,East,Furniture,Monitor Arm,7,24.11,0.0,Cash on Delivery
+ORD101238,2025-06-24,Divya Nair,East,Electronics,Webcam HD,8,331.3,0.1,Debit Card
+ORD100672,2024-08-06,Aditya Patel,West,Electronics,Webcam HD,3,171.07,0.0,Debit Card
+ORD100191,2024-12-18,Arjun Mehta,North,Office Supplies,Whiteboard,3,385.05,0.0,Credit Card
+ORD100522,2024-11-11,Aarav Mehta,South,Furniture,Filing Cabinet,5,82.08,0.0,UPI
+ORD101421,2025-11-15,Rahul Gupta,East,Office Supplies,Sticky Notes,2,394.35,0.0,Net Banking
+ORD101104,2025-04-06,Kabir Iyer,Central,Office Supplies,Ballpoint Pens,2,23.06,0.15,Debit Card
+ORD101464,2024-09-06,,Central,Electronics,Webcam HD,8,419.78,0.05,Debit Card
+ORD101286,2025-03-24,Pooja Singh,South,Electronics,Wireless Mouse,7,250.12,0.15,Cash on Delivery
+ORD100732,2024-04-20,Vivaan Verma,East,Electronics,Webcam HD,1,237.2,0.0,Credit Card
+ORD100787,2025-12-26,Vivaan Sharma,East,Groceries,Olive Oil 1L,5,41.16,0.1,Debit Card
+ORD100237,2024-01-04,Arjun Mehta,West,Electronics,USB-C Hub,8,338.38,0.1,Debit Card
+ORD100600,2025-02-27,Pooja Verma,West,Office Supplies,Desk Organizer,1,59.1,0.15,Cash on Delivery
+ORD100168,2025-09-22,Rohan Mehta,Central,Electronics,Wireless Mouse,1,131.68,0.2,Cash on Delivery
+ORD100681,2024-08-28,Sara Gupta,North,Groceries,Olive Oil 1L,6,212.44,0.15,UPI
+ORD100170,2024-03-05,Diya Patel,East,Electronics,Laptop Stand,1,317.82,0.1,Net Banking
+ORD100573,2025-06-26,Aarav Nair,East,Furniture,Bookshelf,8,199.73,0.0,UPI
+ORD100482,2025-12-14,Diya Verma,East,Electronics,Laptop Stand,3,130.99,0.2,Cash on Delivery
+ORD100517,2025-02-10,Vikram Sharma,North,Electronics,Wireless Mouse,2,468.71,0.05,Net Banking
+ORD101065,2025-03-13,Ananya Iyer,East,Furniture,Standing Desk,2,164.91,0.0,UPI
+ORD100362,2025-01-22,Anjali Gupta,South,Furniture,Monitor Arm,7,55.21,0.05,Net Banking
+ORD100655,2024-05-13,Ananya Reddy,East,Groceries,Olive Oil 1L,3,448.52,0.15,Net Banking
+ORD100712,2024-08-15,Divya Verma,Central,Furniture,Standing Desk,1,46.38,0.2,Net Banking
+ORD100497,2025-08-23,Diya Gupta,East,Electronics,Laptop Stand,2,132.62,0.05,Net Banking
+ORD100699,2024-03-23,Priya Patel,East,Groceries,Green Tea Box,5,479.34,0.0,Credit Card
+ORD101287,2025-03-04,Aditya Mehta,East,Groceries,Coffee Beans 1kg,5,63.2,0.0,Cash on Delivery
+ORD100858,2024-07-06,Ananya Sharma,Central,Furniture,Office Chair,3,156.86,0.05,UPI
+ORD100698,2025-05-28,Isha Gupta,West,Electronics,Laptop Stand,5,228.73,0.0,Credit Card
+ORD101428,2024-04-17,Meera Nair,West,Office Supplies,Desk Organizer,5,96.39,0.15,Cash on Delivery
+ORD100049,2025-04-21,Ananya Verma,East,Groceries,Almonds Pack,4,258.03,0.2,Cash on Delivery
+ORD100560,2024-04-02,Rohan Nair,North,Office Supplies,Ballpoint Pens,5,394.25,0.0,Net Banking
+ORD100910,2025-05-28,Karan Sharma,Central,Electronics,USB-C Hub,4,53.71,0.0,Debit Card
+ORD101004,2024-09-17,Aditya Gupta,East,Groceries,Green Tea Box,4,39.93,0.15,Cash on Delivery
+ORD100809,2025-11-08,Isha Iyer,East,Groceries,Green Tea Box,3,422.24,0.0,UPI
+ORD100414,not_a_date,Vivaan Sharma,South,Furniture,Filing Cabinet,2,52.02,0.2,Debit Card
+ORD100873,2024-10-14,Meera Gupta,South,Furniture,Standing Desk,2,409.06,0.15,Net Banking
+ORD100433,2025-02-26,Kabir Gupta,South,Furniture,Monitor Arm,6,357.38,0.1,Cash on Delivery
+ORD100300,2025-09-22,Karan Mehta,East,Office Supplies,Desk Organizer,4,403.69,0.1,Cash on Delivery
+ORD100423,2024-03-21,Divya Nair,North,Groceries,Almonds Pack,8,48.57,0.05,Net Banking
+ORD101318,2025-11-05,,West,Office Supplies,Ballpoint Pens,3,236.29,0.0,Cash on Delivery
+ORD100305,2025-07-01,Aditya Nair,East,Groceries,Green Tea Box,7,413.3,0.05,UPI
+ORD100775,2024-08-03,Arjun Sharma,East,Office Supplies,Ballpoint Pens,6,440.34,0.2,Credit Card
+ORD100709,2024-12-05,Anjali Patel,Central,Furniture,Filing Cabinet,5,484.95,0.2,Net Banking
+ORD100967,2024-04-21,Aditya Verma,East,Office Supplies,Notebook Pack,5,47.42,0.0,Credit Card
+ORD100633,2025-02-07,Kabir Patel,West,Furniture,Filing Cabinet,7,193.87,0.1,Debit Card
+ORD101330,2025-09-15,Aarav Kapoor,Central,Office Supplies,Desk Organizer,6,184.33,0.1,Net Banking
+ORD101196,2025-03-06,Isha Singh,East,Electronics,Wireless Mouse,5,61.66,0.2,Cash on Delivery
+ORD100286,2024-06-27,Neha Patel,South,Office Supplies,Sticky Notes,7,479.44,0.0,Net Banking
+ORD100443,2025-05-17,Pooja Verma,Central,Furniture,Office Chair,6,265.07,0.0,Debit Card
+ORD100773,2024-02-05,Karan Verma,Central,Electronics,Bluetooth Speaker,5,278.6,0.0,Debit Card
+ORD100893,2025-08-15,Priya Singh,North,Furniture,Monitor Arm,5,212.25,0.0,Net Banking
+ORD100792,2025-06-13,Rohan Mehta,West,Furniture,Filing Cabinet,3,161.19,0.05,Credit Card
+ORD100289,2025-04-13,Sara Kapoor,West,Electronics,USB-C Hub,8,266.22,0.15,Cash on Delivery
+ORD100020,2024-01-08,Sara Verma,Central,Electronics,Wireless Mouse,4,38.36,0.0,Debit Card
+ORD100461,2024-11-16,Rohan Nair,West,Office Supplies,Desk Organizer,7,141.96,0.0,Net Banking
+ORD101271,2025-11-01,Ananya Mehta,West,Electronics,Webcam HD,4,184.24,0.0,Debit Card
+ORD100736,2024-01-05,Ananya Singh,North,Electronics,Bluetooth Speaker,8,186.4,0.1,Debit Card
+ORD100488,2025-02-14,Aarav Verma,South,Furniture,Monitor Arm,1,84.57,0.15,Net Banking
+ORD100588,2025-02-11,Nikhil Sharma,Central,Furniture,Bookshelf,8,87.41,0.0,Debit Card
+ORD100758,2025-01-07,Isha Mehta,South,Groceries,Green Tea Box,8,319.54,0.2,UPI
+ORD100004,2024-10-11,Priya Nair,East,Office Supplies,Desk Organizer,6,55.59,0.05,Cash on Delivery
+ORD100293,2025-07-22,Divya Kapoor,North,Office Supplies,Ballpoint Pens,5,74.45,0.0,UPI
+ORD100116,2025-10-12,Vivaan Reddy,West,Groceries,Protein Bars,7,62.75,0.0,Credit Card
+ORD100141,2024-05-02,Vikram Gupta,Central,Electronics,Laptop Stand,7,91.97,0.05,Cash on Delivery
+ORD100315,2024-05-23,Nikhil Kapoor,East,Office Supplies,Sticky Notes,2,127.84,0.1,Credit Card
+ORD100651,2024-09-30,Diya Kapoor,South,Electronics,USB-C Hub,7,233.25,0.15,Cash on Delivery
+ORD101101,2025-03-05,Karan Kapoor,West,Groceries,Almonds Pack,3,482.97,0.05,Credit Card
+ORD101257,2024-10-12,Isha Nair,South,Electronics,USB-C Hub,2,373.42,0.0,Cash on Delivery
+ORD100195,2024-01-30,Anjali Iyer,Central,Electronics,Wireless Mouse,5,327.31,0.2,Credit Card
+ORD100202,2024-08-08,Rahul Reddy,Central,Furniture,Office Chair,1,144.27,0.1,Credit Card
+ORD100050,2025-11-10,Kabir Patel,North,Furniture,Office Chair,4,338.03,0.0,Credit Card
+ORD100232,2024-04-03,Divya Kapoor,North,Groceries,Coffee Beans 1kg,8,70.31,0.05,Cash on Delivery
+ORD101170,2024-11-06,Divya Sharma,  south  ,Groceries,Protein Bars,2,400.89,0.0,UPI
+ORD100580,2024-04-19,Nikhil Reddy,Central,Office Supplies,Desk Organizer,1,382.41,0.1,Cash on Delivery
+ORD100886,2024-08-26,Nikhil Kapoor,North,Electronics,Laptop Stand,7,234.78,0.05,UPI
+ORD100105,2024-03-21,Rohan Gupta,West,Groceries,Olive Oil 1L,4,251.35,0.1,UPI
+ORD101429,2025-06-16,Rohan Kapoor,North,Furniture,Standing Desk,6,213.9,0.15,Net Banking
+ORD101387,2024-11-12,Pooja Singh,West,Groceries,Coffee Beans 1kg,3,246.35,0.0,Debit Card
+ORD100726,2024-12-26,Rahul Iyer,East,Office Supplies,Notebook Pack,3,261.49,0.0,Debit Card
+ORD100943,2025-10-12,Anjali Singh,West,Furniture,Filing Cabinet,2,170.88,0.1,Cash on Delivery
+ORD100984,2025-05-26,Vivaan Kapoor,East,Groceries,Green Tea Box,5,77.21,0.15,UPI
+ORD100719,2025-08-22,Aarav Patel,East,Furniture,Filing Cabinet,8,116.14,0.2,UPI
+ORD100326,2025-12-30,Rahul Kapoor,South,Electronics,Laptop Stand,8,257.84,0.0,UPI
+ORD100249,2025-04-22,Divya Verma,West,Furniture,Bookshelf,5,183.02,0.05,UPI
+ORD100182,2025-11-25,Karan Nair,West,Groceries,Coffee Beans 1kg,3,38.28,0.2,Cash on Delivery
+ORD101371,2024-01-27,Ananya Kapoor,East,Office Supplies,Sticky Notes,6,358.33,0.0,Net Banking
+ORD100654,2025-09-26,Priya Verma,North,Electronics,Wireless Mouse,4,475.49,0.15,Cash on Delivery
+ORD101399,2024-11-28,Kabir Mehta,North,Groceries,Green Tea Box,3,296.96,0.1,Net Banking
+ORD100302,2024-03-01,Sara Gupta,West,Furniture,Standing Desk,3,128.59,0.15,Net Banking
+ORD100608,2025-08-01,Sara Nair,North,Furniture,Monitor Arm,1,108.09,0.15,Debit Card
+ORD100052,2025-02-13,Priya Iyer,South,Office Supplies,Desk Organizer,1,446.87,0.2,Debit Card
+ORD101490,2025-06-04,Diya Nair,North,Furniture,Office Chair,4,53.83,0.0,Debit Card
+ORD100626,2024-03-08,Anjali Nair,Central,Furniture,Standing Desk,7,393.24,0.05,Debit Card
+ORD100410,2025-05-24,Pooja Gupta,East,Office Supplies,Whiteboard,4,390.09,0.2,Net Banking
+ORD100109,2024-01-09,Diya Kapoor,East,Electronics,Webcam HD,8,417.26,0.0,Debit Card
+ORD101031,2024-04-27,Priya Mehta,Central,Furniture,Standing Desk,7,103.21,0.15,Debit Card
+ORD100636,2025-12-13,Vikram Singh,West,Groceries,Olive Oil 1L,3,229.93,0.05,UPI
+ORD100780,2024-06-26,Ananya Iyer,West,Furniture,Bookshelf,4,46.78,0.0,Cash on Delivery
+ORD101410,2024-07-12,Vikram Kapoor,North,Office Supplies,Desk Organizer,5,94.89,0.0,Debit Card
+ORD100031,2024-07-28,Meera Singh,East,Furniture,Standing Desk,5,200.91,0.15,Credit Card
+ORD101474,2024-07-04,Neha Kapoor,West,Electronics,Laptop Stand,2,169.24,0.0,Net Banking
+ORD101168,2025-06-16,Anjali Nair,East,Furniture,Monitor Arm,2,219.56,0.05,Credit Card
+ORD101277,2025-04-14,Rahul Iyer,East,Office Supplies,Notebook Pack,5,484.78,0.1,Net Banking
+ORD101391,2024-06-24,Rahul Kapoor,West,Office Supplies,Whiteboard,3,166.21,0.1,UPI
+ORD100970,2025-05-12,Sara Nair,South,Groceries,Protein Bars,7,171.59,0.15,UPI
+ORD100538,2024-07-16,Vivaan Singh,West,Electronics,Laptop Stand,6,363.58,0.0,Cash on Delivery
+ORD100831,2025-10-06,Arjun Iyer,West,Office Supplies,Desk Organizer,7,394.67,0.0,Net Banking
+ORD101352,2024-12-19,Sara Singh,West,Electronics,Bluetooth Speaker,6,155.5,0.2,Credit Card
+ORD101150,2024-07-11,Anjali Verma,South,Electronics,USB-C Hub,7,86.28,0.0,Net Banking
+ORD100269,2024-07-10,Karan Mehta,North,Groceries,Almonds Pack,7,56.13,0.0,Cash on Delivery
+ORD100256,2024-01-07,Vikram Reddy,North,Groceries,Coffee Beans 1kg,1,267.06,0.0,Cash on Delivery
+ORD100178,2025-05-23,Arjun Verma,West,Groceries,Protein Bars,5,401.57,0.15,Cash on Delivery
+ORD100260,2025-01-21,Rahul Iyer,East,Groceries,Coffee Beans 1kg,1,352.91,0.0,Cash on Delivery
+ORD100743,2024-05-05,Anjali Kapoor,East,Office Supplies,Ballpoint Pens,8,142.87,0.15,Net Banking
+ORD100963,2024-12-18,Meera Sharma,South,Office Supplies,Sticky Notes,4,465.36,0.05,Net Banking
+ORD100089,2025-02-22,Arjun Singh,East,Furniture,Bookshelf,2,429.58,0.0,Net Banking
+ORD101204,2024-03-10,Pooja Kapoor,Central,Office Supplies,Sticky Notes,2,269.54,0.0,UPI
+ORD101409,2024-08-16,Anjali Nair,Central,Furniture,Monitor Arm,8,328.54,0.0,Debit Card
+ORD100265,2025-09-20,Divya Singh,South,Groceries,Protein Bars,1,318.89,0.2,UPI
+ORD101316,2024-06-08,Meera Gupta,East,Office Supplies,Ballpoint Pens,6,324.77,0.15,Cash on Delivery
+ORD100407,2025-10-31,Priya Mehta,East,Electronics,Wireless Mouse,2,211.3,0.05,Net Banking
+ORD100635,2025-10-25,Isha Patel,West,Electronics,Bluetooth Speaker,8,330.67,0.0,Net Banking
+ORD100978,2024-06-13,Rahul Verma,South,Furniture,Filing Cabinet,5,114.09,0.0,Cash on Delivery
+ORD100481,2025-01-14,Rahul Iyer,East,Electronics,Webcam HD,7,118.6,0.2,Cash on Delivery
+ORD101475,2025-01-25,Karan Patel,West,Groceries,Green Tea Box,6,95.58,0.0,UPI
+ORD101423,2024-05-27,Pooja Patel,South,Groceries,Coffee Beans 1kg,7,382.44,0.15,Credit Card
+ORD100924,2024-11-13,Rohan Singh,North,Office Supplies,Whiteboard,8,141.34,0.0,Net Banking
+ORD101250,2024-08-25,Pooja Kapoor,Central,Furniture,Filing Cabinet,6,28.9,0.1,Net Banking
+ORD100401,2025-01-27,Sara Mehta,South,Electronics,Wireless Mouse,4,366.68,0.0,Credit Card
+ORD100284,2024-12-17,Divya Singh,East,Groceries,Green Tea Box,8,177.41,0.0,Credit Card
+ORD101067,2025-03-04,Diya Iyer,North,Groceries,Olive Oil 1L,8,268.57,0.2,Cash on Delivery
+ORD101403,2024-05-23,Vivaan Mehta,North,Electronics,Laptop Stand,7,201.17,0.05,Cash on Delivery
+ORD100778,2024-01-04,Priya Patel,South,Groceries,Green Tea Box,5,160.29,0.0,Cash on Delivery
+ORD100159,2024-05-20,Pooja Mehta,Central,Office Supplies,Notebook Pack,5,422.99,0.0,Credit Card
+ORD100224,2025-10-25,Meera Kapoor,South,Furniture,Standing Desk,1,369.63,0.2,Debit Card
+ORD100992,2025-10-27,Neha Gupta,North,Furniture,Monitor Arm,7,485.01,0.15,Credit Card
+ORD100624,2025-08-11,Priya Nair,Central,Office Supplies,Whiteboard,2,205.81,0.15,Credit Card
+ORD100800,2024-02-19,Nikhil Iyer,North,Furniture,Bookshelf,1,373.18,0.1,Net Banking
+ORD101452,2024-09-01,Vivaan Nair,West,Furniture,Monitor Arm,7,408.57,0.15,Net Banking
+ORD100981,2025-08-29,Neha Kapoor,  north  ,Office Supplies,Notebook Pack,6,68.07,0.0,UPI
+ORD101166,2024-07-17,Vikram Singh,Central,Groceries,Coffee Beans 1kg,5,439.19,0.15,Debit Card
+ORD100623,2024-01-31,Ananya Reddy,East,Electronics,Laptop Stand,2,178.96,0.05,Cash on Delivery
+ORD100951,2024-07-21,Meera Kapoor,West,Office Supplies,Ballpoint Pens,3,304.9,0.0,Debit Card
+ORD100095,2025-04-12,Rohan Verma,East,Office Supplies,Ballpoint Pens,4,461.32,0.1,Net Banking
+ORD100529,2024-01-16,Rahul Nair,West,Groceries,Green Tea Box,6,213.02,0.2,Credit Card
+ORD100900,2025-03-20,Kabir Gupta,Central,Electronics,Wireless Mouse,3,441.95,0.0,Net Banking
+ORD101246,2024-05-10,Sara Nair,Central,Groceries,Olive Oil 1L,4,357.43,0.0,Cash on Delivery
+ORD100310,2025-08-30,Sara Verma,West,Office Supplies,Whiteboard,8,9.6,0.15,Debit Card
+ORD101180,2024-02-25,Priya Nair,Central,Electronics,Wireless Mouse,5,415.8,0.15,Credit Card
+ORD100701,2024-05-15,Aarav Reddy,South,Groceries,Protein Bars,7,224.71,0.15,Credit Card
+ORD101130,2025-01-27,Isha Singh,South,Groceries,Green Tea Box,6,190.11,0.15,Credit Card
+ORD100615,2024-02-17,Meera Gupta,East,Electronics,Webcam HD,5,16.13,0.2,Debit Card
+ORD100617,2024-10-07,Vikram Nair,East,Electronics,Wireless Mouse,2,107.26,0.0,Debit Card
+ORD100066,2024-03-18,Priya Kapoor,North,Office Supplies,Notebook Pack,5,425.9,0.1,UPI
+ORD100271,2025-06-17,Aditya Singh,South,Office Supplies,Ballpoint Pens,3,73.73,0.0,Credit Card
+ORD100331,2024-11-14,Meera Kapoor,East,Furniture,Office Chair,8,8.94,0.0,Cash on Delivery
+ORD100960,2025-04-11,Ananya Sharma,North,Office Supplies,Sticky Notes,4,303.06,0.15,Credit Card
+ORD100756,2024-09-30,Anjali Iyer,East,Electronics,Laptop Stand,1,492.95,0.05,Cash on Delivery
+ORD100422,2024-11-24,Vikram Iyer,West,Office Supplies,Sticky Notes,5,29.92,0.0,Debit Card
+ORD100504,2025-12-03,Sara Sharma,North,Office Supplies,Ballpoint Pens,2,350.63,0.05,Debit Card
+ORD101145,2025-11-15,Rahul Reddy,East,Electronics,Webcam HD,4,291.05,0.15,Net Banking
+ORD101181,2024-10-24,Pooja Sharma,South,Groceries,Protein Bars,1,65.11,0.1,Cash on Delivery
+ORD100751,2025-08-08,Aditya Singh,Central,Groceries,Almonds Pack,3,255.81,0.05,Net Banking
+ORD100259,2024-09-06,Vivaan Verma,West,Office Supplies,Sticky Notes,2,328.6,0.2,Net Banking
+ORD100057,2025-02-28,Arjun Iyer,Central,Groceries,Protein Bars,8,210.81,0.0,Credit Card
+ORD100143,2024-11-16,Meera Verma,West,Groceries,Olive Oil 1L,7,356.2,0.05,Credit Card
+ORD101308,2025-11-11,Pooja Patel,East,Groceries,Almonds Pack,1,37.15,0.2,Credit Card
+ORD101245,2025-03-17,Pooja Iyer,West,Electronics,Bluetooth Speaker,2,70.53,0.2,UPI
+ORD100496,2024-09-20,Diya Nair,West,Furniture,Filing Cabinet,7,283.77,0.2,Net Banking
+ORD100429,2024-07-14,Anjali Verma,West,Furniture,Office Chair,7,28.02,0.15,Net Banking
+ORD100322,2025-10-11,Diya Sharma,South,Electronics,USB-C Hub,7,366.33,0.2,Credit Card
+ORD100513,2025-09-20,Sara Iyer,Central,Furniture,Filing Cabinet,3,434.79,0.15,Cash on Delivery
+ORD100199,2024-09-04,Priya Sharma,East,Groceries,Coffee Beans 1kg,5,227.55,0.0,Net Banking
+ORD100160,2025-11-08,Ananya Patel,Central,Furniture,Monitor Arm,3,300.64,0.0,Debit Card
+ORD100228,2025-02-19,Diya Patel,West,Furniture,Office Chair,5,186.93,0.0,Debit Card
+ORD100956,2024-01-14,Karan Iyer,West,Furniture,Filing Cabinet,7,463.22,0.05,UPI
+ORD100597,2024-02-03,Ananya Patel,East,Furniture,Bookshelf,2,29.27,0.05,Cash on Delivery
+ORD100576,2025-11-25,Meera Kapoor,East,Office Supplies,Ballpoint Pens,4,288.58,0.05,Net Banking
+ORD100532,2024-02-04,Rahul Iyer,East,Office Supplies,Ballpoint Pens,2,262.96,0.0,UPI
+ORD100805,2024-12-15,Pooja Verma,East,Groceries,Green Tea Box,3,465.68,0.1,Net Banking
+ORD100962,2025-12-09,Arjun Verma,North,Furniture,Monitor Arm,7,295.11,0.15,Cash on Delivery
+ORD101221,2025-01-26,Ananya Iyer,Central,Groceries,Almonds Pack,1,116.1,0.05,Credit Card
+ORD100952,2024-10-05,Rahul Singh,West,Groceries,Coffee Beans 1kg,6,202.13,0.0,Cash on Delivery
+ORD100662,2025-01-28,Neha Sharma,North,Groceries,Coffee Beans 1kg,6,170.05,0.0,UPI
+ORD100088,2025-04-26,Rahul Verma,West,Groceries,Protein Bars,3,498.49,0.05,UPI
+ORD100731,2024-05-13,Rahul Iyer,North,Electronics,Laptop Stand,2,43.48,0.2,Debit Card
+ORD100820,2025-09-29,Kabir Singh,East,Furniture,Filing Cabinet,7,15.3,0.0,Net Banking
+ORD101136,2024-07-21,Arjun Verma,North,Office Supplies,Notebook Pack,8,251.83,0.0,Net Banking
+ORD100901,2025-12-12,Vivaan Kapoor,Central,Furniture,Bookshelf,7,488.61,0.0,Debit Card
+ORD100814,2025-12-13,Diya Iyer,Central,Office Supplies,Notebook Pack,4,243.15,0.0,Debit Card
+ORD100360,2024-11-23,Kabir Gupta,North,Office Supplies,Notebook Pack,6,226.08,0.0,UPI
+ORD100919,2024-04-21,Isha Patel,North,Furniture,Monitor Arm,8,321.31,0.0,Cash on Delivery
+ORD101275,2024-03-27,Vikram Kapoor,  south  ,Electronics,Wireless Mouse,7,14.98,0.15,Credit Card
+ORD100121,2024-09-06,Vikram Gupta,Central,Office Supplies,Whiteboard,4,38.96,0.2,Debit Card
+ORD101091,2025-11-27,Sara Nair,North,Office Supplies,Ballpoint Pens,6,258.68,0.1,Net Banking
+ORD100419,2025-02-25,Aarav Mehta,Central,Groceries,Coffee Beans 1kg,2,134.5,0.0,Cash on Delivery
+ORD101163,2025-07-12,Karan Reddy,East,Furniture,Filing Cabinet,5,185.32,0.0,Cash on Delivery
+ORD101049,2024-05-16,Aarav Nair,South,Groceries,Olive Oil 1L,5,165.69,0.0,UPI
+ORD100187,2025-12-27,Ananya Patel,East,Electronics,Webcam HD,5,446.21,0.2,Cash on Delivery
+ORD101134,2025-08-04,Kabir Mehta,South,Furniture,Standing Desk,2,195.87,0.1,Credit Card
+ORD100373,2024-02-05,Kabir Gupta,South,Office Supplies,Notebook Pack,8,90.58,0.0,Credit Card
+ORD100680,2024-02-14,Rahul Mehta,North,Electronics,Wireless Mouse,3,83.23,0.0,Credit Card
+ORD100557,2024-02-08,Karan Iyer,West,Groceries,Coffee Beans 1kg,1,461.33,0.0,Credit Card
+ORD100134,2024-10-12,Aditya Sharma,South,Office Supplies,Ballpoint Pens,1,306.45,0.15,UPI
+ORD100303,2024-05-25,Isha Iyer,Central,Furniture,Filing Cabinet,7,228.74,0.15,UPI
+ORD101284,2025-05-26,Pooja Mehta,North,Furniture,Standing Desk,6,233.38,0.05,Credit Card
+ORD100082,2025-11-07,Ananya Sharma,West,Electronics,Bluetooth Speaker,4,91.04,0.0,Net Banking
+ORD100644,2024-09-15,Aarav Verma,Central,Office Supplies,Whiteboard,5,141.23,0.0,Debit Card
+ORD100548,2025-06-28,Anjali Patel,Central,Groceries,Green Tea Box,4,265.47,0.0,Cash on Delivery
+ORD100479,2025-12-01,Nikhil Sharma,Central,Groceries,Green Tea Box,-1,92.82,0.1,Cash on Delivery
+ORD101088,2024-11-12,Meera Patel,North,Electronics,Laptop Stand,2,230.13,0.0,UPI
+ORD100425,2025-09-25,Sara Nair,North,Furniture,Monitor Arm,4,329.03,0.05,Debit Card
+ORD100621,2025-04-21,Divya Singh,South,Office Supplies,Notebook Pack,8,53.15,0.0,Debit Card
+ORD101107,2024-12-26,Divya Iyer,East,Groceries,Olive Oil 1L,6,61.12,0.0,Debit Card
+ORD101210,2025-11-29,Neha Patel,West,Electronics,Webcam HD,8,30.81,0.2,Net Banking
+ORD101495,2024-01-11,Diya Verma,North,Groceries,Coffee Beans 1kg,8,68.8,0.15,Credit Card
+ORD100694,2024-07-31,Pooja Nair,North,Electronics,Webcam HD,6,369.2,0.0,Credit Card
+ORD101362,2024-06-14,Kabir Nair,South,Groceries,Protein Bars,4,91.73,0.15,UPI
+ORD101157,2025-02-06,Kabir Nair,East,Electronics,Bluetooth Speaker,5,250.11,0.0,Cash on Delivery
+ORD101433,2024-07-09,Priya Nair,Central,Furniture,Bookshelf,8,387.14,0.05,UPI
+ORD101205,2025-02-12,Aarav Sharma,East,Electronics,Webcam HD,2,293.47,0.0,Net Banking
+ORD100404,2025-06-20,Karan Gupta,South,Furniture,Filing Cabinet,3,,0.05,Net Banking
+ORD101184,2024-07-28,Neha Sharma,North,Electronics,Laptop Stand,1,417.2,0.05,UPI
+ORD100013,2024-09-14,Priya Reddy,West,Electronics,Wireless Mouse,5,385.46,0.0,Debit Card
+ORD100402,2025-11-23,Meera Patel,North,Electronics,Bluetooth Speaker,4,348.29,0.0,Net Banking
+ORD100074,2024-12-26,Kabir Nair,North,Groceries,Protein Bars,5,129.44,0.0,Cash on Delivery
+ORD101451,2025-01-19,Priya Kapoor,North,Groceries,Coffee Beans 1kg,2,297.22,0.2,Credit Card
+ORD100528,2024-07-09,Aarav Gupta,North,Electronics,USB-C Hub,5,66.89,0.05,Debit Card
+ORD101488,2024-07-11,Vivaan Mehta,North,Electronics,USB-C Hub,3,322.26,0.15,Credit Card
+ORD100306,2025-07-14,Vivaan Sharma,  north  ,Office Supplies,Whiteboard,8,395.21,0.15,Net Banking
+ORD100332,2024-09-05,Kabir Mehta,South,Groceries,Protein Bars,8,498.9,0.2,Debit Card
+ORD100492,2025-11-21,Isha Reddy,West,Electronics,USB-C Hub,4,329.23,0.0,UPI
+ORD101085,2025-11-29,Kabir Patel,South,Groceries,Coffee Beans 1kg,2,476.65,0.0,Cash on Delivery
+ORD101182,2024-05-27,Rohan Reddy,East,Groceries,Green Tea Box,4,448.05,0.15,Credit Card
+ORD100891,2024-01-09,Vikram Sharma,West,Office Supplies,Notebook Pack,4,256.02,0.2,UPI
+ORD100164,2024-02-23,Priya Reddy,North,Groceries,Protein Bars,2,357.14,0.1,Debit Card
+ORD100048,2024-11-04,Arjun Kapoor,Central,Groceries,Olive Oil 1L,1,155.42,0.0,UPI
+ORD100614,2025-04-15,Nikhil Verma,East,Groceries,Olive Oil 1L,2,7.03,0.0,Net Banking
+ORD100099,2025-12-23,Rohan Mehta,Central,Groceries,Almonds Pack,3,250.19,0.0,UPI
+ORD101473,2024-03-13,Kabir Gupta,Central,Electronics,Webcam HD,7,366.54,0.15,Debit Card
+ORD100896,2024-05-25,Karan Sharma,North,Furniture,Filing Cabinet,4,317.51,0.2,Debit Card
+ORD100554,2024-11-18,Karan Patel,South,Electronics,USB-C Hub,3,51.67,0.05,UPI
+ORD100454,2024-05-19,Meera Nair,North,Groceries,Olive Oil 1L,5,480.27,0.0,Cash on Delivery
+ORD100281,2025-10-22,Aditya Gupta,Central,Groceries,Protein Bars,7,57.44,0.0,Cash on Delivery
+ORD101457,2024-12-07,Priya Verma,West,Furniture,Monitor Arm,4,161.68,0.0,UPI
+ORD100312,2024-11-02,Rohan Verma,Central,Office Supplies,Ballpoint Pens,3,322.58,0.15,Cash on Delivery
+ORD100132,2025-02-24,Meera Nair,North,Furniture,Filing Cabinet,1,484.36,0.1,Cash on Delivery
+ORD100862,2024-01-30,Priya Gupta,Central,Groceries,Green Tea Box,1,138.23,0.1,Debit Card
+ORD101294,2024-06-05,Priya Patel,Central,Electronics,Bluetooth Speaker,5,93.27,0.1,Cash on Delivery
+ORD101011,2025-08-31,Pooja Patel,  south  ,Groceries,Almonds Pack,3,133.24,0.15,Debit Card
+ORD100603,2024-01-02,Kabir Kapoor,West,Electronics,Wireless Mouse,8,314.6,0.0,Net Banking
+ORD100639,2025-12-08,Pooja Kapoor,North,Electronics,Bluetooth Speaker,5,235.14,0.0,Debit Card
+ORD100216,2024-05-29,Karan Singh,East,Furniture,Office Chair,5,477.88,0.0,Net Banking
+ORD100136,2024-05-25,Sara Patel,East,Electronics,Wireless Mouse,4,191.22,0.05,UPI
+ORD101432,2024-08-07,Aditya Mehta,East,Groceries,Olive Oil 1L,5,275.21,0.0,UPI
+ORD101244,2024-06-19,Rahul Verma,South,Electronics,Laptop Stand,5,383.93,0.15,Credit Card
+ORD100661,2025-02-04,Isha Mehta,South,Electronics,Webcam HD,8,241.68,0.05,Credit Card
+ORD100299,2025-03-25,Karan Kapoor,West,Electronics,Bluetooth Speaker,4,406.3,0.1,Debit Card
+ORD101389,2024-07-17,Sara Mehta,West,Electronics,Bluetooth Speaker,4,157.06,0.0,Credit Card
+ORD101302,2024-07-19,Sara Verma,East,Groceries,Protein Bars,4,7.78,0.0,UPI
+ORD100665,2024-07-13,Diya Singh,West,Office Supplies,Notebook Pack,4,17.56,0.1,Credit Card
+ORD101247,2025-09-23,Divya Iyer,West,Electronics,Wireless Mouse,2,370.68,0.0,Net Banking
+ORD100749,2024-11-18,Vikram Reddy,South,Groceries,Almonds Pack,8,22.81,0.0,Net Banking
+ORD101036,2024-08-05,Arjun Patel,East,Furniture,Filing Cabinet,5,454.7,0.0,Net Banking
+ORD100196,2025-05-24,Neha Reddy,West,Furniture,Bookshelf,8,126.21,0.2,Credit Card
+ORD100369,2025-05-15,,West,Furniture,Office Chair,7,96.52,0.05,Credit Card
+ORD100578,2024-05-18,Vikram Verma,South,Groceries,Green Tea Box,3,162.16,0.1,UPI
+ORD100582,2025-05-29,Rahul Patel,South,Groceries,Protein Bars,3,426.8,0.05,Debit Card
+ORD100730,2024-01-30,Diya Reddy,  south  ,Electronics,Bluetooth Speaker,3,429.12,0.0,Debit Card
+ORD100760,2024-12-10,Isha Reddy,Central,Furniture,Office Chair,8,216.42,0.0,UPI
+ORD101149,2024-05-13,Nikhil Mehta,South,Office Supplies,Sticky Notes,7,487.66,0.2,Net Banking
+ORD100376,2025-12-18,Anjali Kapoor,North,Groceries,Coffee Beans 1kg,7,79.07,0.1,Credit Card
+ORD100342,2024-04-14,Diya Patel,South,Office Supplies,Notebook Pack,1,35.53,0.2,Net Banking
+ORD101367,2025-02-13,Aditya Kapoor,North,Groceries,Almonds Pack,2,56.29,0.2,Debit Card
+ORD101010,2024-04-11,Ananya Nair,Central,Electronics,Bluetooth Speaker,6,473.52,0.05,Cash on Delivery
+ORD100871,2025-11-18,Nikhil Nair,West,Groceries,Coffee Beans 1kg,6,486.16,0.05,Debit Card
+ORD100949,2025-10-06,Vivaan Patel,South,Electronics,Wireless Mouse,8,39.64,0.0,Debit Card
+ORD100059,2025-09-09,Aarav Iyer,East,Office Supplies,Ballpoint Pens,4,140.1,0.05,Net Banking
+ORD100383,2024-06-26,Vivaan Nair,South,Office Supplies,Desk Organizer,1,128.5,0.05,UPI
+ORD101393,2024-11-11,Neha Sharma,West,Groceries,Olive Oil 1L,7,382.53,0.0,UPI
+ORD100240,2024-02-15,Vivaan Patel,Central,Groceries,Almonds Pack,4,272.18,0.2,UPI
+ORD100708,2024-01-26,Rohan Sharma,Central,Groceries,Almonds Pack,-1,474.16,0.0,Cash on Delivery
+ORD100423,2024-03-21,Divya Nair,North,Groceries,Almonds Pack,8,48.57,0.05,Net Banking
+ORD100877,2024-10-07,Aarav Iyer,North,Office Supplies,Notebook Pack,5,341.94,0.05,UPI
+ORD101094,2025-11-16,Divya Verma,North,Electronics,USB-C Hub,8,236.9,0.1,Debit Card
+ORD100762,2024-01-20,Divya Reddy,Central,Office Supplies,Whiteboard,8,110.41,0.2,Cash on Delivery
+ORD100670,2025-08-28,Nikhil Gupta,North,Electronics,Wireless Mouse,2,251.09,0.2,Debit Card
+ORD100028,2024-02-28,Pooja Patel,North,Electronics,Webcam HD,8,253.91,0.2,Cash on Delivery
+ORD101472,2025-08-06,Vivaan Nair,Central,Groceries,Green Tea Box,6,432.05,0.1,Credit Card
+ORD101449,2024-12-31,Diya Kapoor,West,Electronics,Wireless Mouse,2,357.98,0.05,Debit Card
+ORD100530,2024-12-04,Isha Mehta,West,Electronics,Bluetooth Speaker,1,136.92,0.05,Debit Card
+ORD100127,2025-09-14,Anjali Mehta,East,Office Supplies,Notebook Pack,3,141.13,0.15,Net Banking
+ORD100894,2024-08-12,Diya Singh,East,Electronics,Bluetooth Speaker,4,235.94,0.0,Net Banking
+ORD100794,2024-04-28,Vikram Singh,West,Groceries,Coffee Beans 1kg,8,181.48,0.15,Net Banking
+ORD100720,2025-10-17,Diya Sharma,North,Groceries,Coffee Beans 1kg,5,211.49,0.05,UPI
+ORD100869,2025-09-05,Nikhil Singh,North,Furniture,Office Chair,3,324.99,0.0,Credit Card
+ORD101171,2025-08-30,Karan Sharma,North,Electronics,Wireless Mouse,8,156.38,0.05,UPI
+ORD100349,2024-11-25,Diya Sharma,East,Groceries,Protein Bars,3,17.9,0.1,Credit Card
+ORD100400,2024-06-21,Arjun Iyer,West,Office Supplies,Ballpoint Pens,2,69.06,0.05,Net Banking
+ORD100766,2025-07-27,Rohan Sharma,East,Groceries,Almonds Pack,1,104.99,0.0,UPI
+ORD100091,2025-11-04,Nikhil Singh,West,Groceries,Almonds Pack,1,97.85,0.0,Credit Card
+ORD100725,2024-11-26,Karan Verma,Central,Furniture,Bookshelf,5,344.29,0.15,Cash on Delivery
+ORD101340,2024-12-31,Vivaan Kapoor,North,Groceries,Coffee Beans 1kg,8,165.69,0.15,UPI
+ORD100263,2024-05-27,Anjali Iyer,Central,Groceries,Coffee Beans 1kg,5,85.41,0.0,UPI
+ORD100899,2024-12-12,Karan Patel,Central,Office Supplies,Sticky Notes,8,123.87,0.2,Cash on Delivery
+ORD101164,2025-11-10,Aarav Patel,West,Groceries,Coffee Beans 1kg,5,344.46,0.15,Debit Card
+ORD101291,2025-12-11,Nikhil Singh,Central,Electronics,Webcam HD,8,168.86,0.0,Debit Card
+ORD100149,2025-04-25,Pooja Verma,East,Groceries,Protein Bars,5,297.75,0.0,Net Banking
+ORD100337,2025-02-06,Kabir Patel,Central,Furniture,Bookshelf,8,139.62,0.0,Credit Card
+ORD100415,2024-12-02,Karan Nair,South,Furniture,Filing Cabinet,5,439.85,0.0,Credit Card
+ORD100391,2025-10-17,Meera Gupta,South,Furniture,Bookshelf,5,329.78,0.15,Cash on Delivery
+ORD101009,2025-05-16,Meera Mehta,East,Electronics,Webcam HD,6,351.73,0.2,Cash on Delivery
+ORD100079,2025-02-14,Anjali Reddy,North,Groceries,Coffee Beans 1kg,1,80.1,0.2,Debit Card
+ORD101106,2024-01-17,Divya Iyer,West,Furniture,Bookshelf,2,351.16,0.15,UPI
+ORD101042,2025-03-05,Meera Sharma,Central,Electronics,Bluetooth Speaker,5,349.87,0.0,Credit Card
+ORD100875,2025-10-15,Ananya Mehta,South,Groceries,Coffee Beans 1kg,5,286.71,0.05,Cash on Delivery
+ORD100036,2024-02-22,Rohan Reddy,South,Electronics,Laptop Stand,5,26.82,0.0,Net Banking
+ORD101480,2025-01-18,Divya Sharma,Central,Office Supplies,Ballpoint Pens,3,256.13,0.2,Credit Card
+ORD100637,2024-08-19,Diya Mehta,East,Office Supplies,Ballpoint Pens,1,291.08,0.2,Net Banking
+ORD100539,2024-10-28,Divya Reddy,Central,Groceries,Green Tea Box,3,274.09,0.0,Cash on Delivery
+ORD101116,2025-03-23,Anjali Iyer,East,Office Supplies,Notebook Pack,3,254.61,0.15,Cash on Delivery
+ORD100324,2025-12-19,Pooja Reddy,South,Electronics,Bluetooth Speaker,8,476.74,0.1,UPI
+ORD100664,2025-01-28,Karan Singh,  north  ,Office Supplies,Sticky Notes,7,448.75,0.15,Net Banking
+ORD100007,2025-01-24,Kabir Reddy,North,Furniture,Filing Cabinet,6,85.51,0.0,Cash on Delivery
+ORD100861,2025-05-31,Vikram Iyer,North,Groceries,Coffee Beans 1kg,5,35.01,0.05,Net Banking
+ORD101154,2025-03-08,Aditya Mehta,Central,Office Supplies,Sticky Notes,4,204.33,0.1,Net Banking
+ORD101074,2025-03-30,Vivaan Kapoor,South,Electronics,USB-C Hub,2,82.16,0.15,Cash on Delivery
+ORD100645,2025-08-28,Diya Singh,South,Office Supplies,Ballpoint Pens,6,404.88,0.0,Cash on Delivery
+ORD100304,2025-12-12,Isha Singh,East,Furniture,Filing Cabinet,8,167.01,0.0,Credit Card
+ORD101311,2024-03-31,Sara Kapoor,North,Electronics,Wireless Mouse,3,366.13,0.0,Debit Card
+ORD100217,2024-08-07,Aditya Patel,North,Office Supplies,Whiteboard,5,466.85,0.15,Cash on Delivery
+ORD101087,2024-09-01,Rahul Verma,North,Office Supplies,Whiteboard,2,479.22,0.1,Debit Card
+ORD100396,2024-11-10,Divya Verma,West,Groceries,Protein Bars,6,133.98,0.0,Credit Card
+ORD100920,2024-06-30,Isha Iyer,East,Electronics,Webcam HD,8,18.29,0.0,Debit Card
+ORD100351,2024-02-27,Ananya Patel,South,Office Supplies,Whiteboard,7,180.63,0.2,Cash on Delivery
+ORD101404,2025-01-17,Sara Mehta,West,Electronics,Webcam HD,7,497.85,0.1,UPI
+ORD101174,2024-04-10,Sara Kapoor,South,Furniture,Bookshelf,5,90.78,0.05,Debit Card
+ORD100203,2024-04-20,Neha Nair,North,Groceries,Green Tea Box,5,365.12,0.2,Net Banking
+ORD101029,2025-12-01,Aarav Iyer,West,Office Supplies,Notebook Pack,6,217.68,0.1,UPI
+ORD100384,2025-01-12,Aarav Gupta,East,Groceries,Olive Oil 1L,7,319.53,0.0,Net Banking
+ORD100562,2025-05-07,Vikram Kapoor,Central,Office Supplies,Ballpoint Pens,7,327.86,0.0,Debit Card
+ORD100311,2025-05-04,Priya Verma,East,Electronics,Bluetooth Speaker,7,49.22,0.2,UPI
+ORD100979,2025-10-10,Nikhil Verma,East,Groceries,Coffee Beans 1kg,6,436.61,0.1,Net Banking
+ORD101253,2024-08-17,Priya Gupta,East,Office Supplies,Sticky Notes,5,494.46,0.2,Debit Card
+ORD100405,2024-01-20,Anjali Mehta,South,Office Supplies,Desk Organizer,3,109.54,0.0,Credit Card
+ORD100537,2025-10-22,Sara Mehta,East,Office Supplies,Whiteboard,2,67.28,0.0,Net Banking
+ORD100009,2024-02-27,Kabir Kapoor,East,Office Supplies,Notebook Pack,6,203.58,0.0,Debit Card
+ORD101248,2024-10-23,Pooja Verma,South,Groceries,Green Tea Box,3,363.24,0.1,Credit Card
+ORD100242,2024-10-08,Vikram Singh,North,Electronics,Webcam HD,3,314.87,0.05,UPI
+ORD101320,2024-12-10,Vikram Patel,North,Electronics,Bluetooth Speaker,6,156.61,0.05,Net Banking
+ORD100892,2024-07-19,Rahul Singh,Central,Office Supplies,Desk Organizer,2,174.07,0.15,UPI
+ORD101235,2024-02-01,Anjali Sharma,North,Office Supplies,Sticky Notes,1,148.98,0.0,Cash on Delivery
+ORD101200,2024-01-06,Pooja Singh,South,Furniture,Filing Cabinet,2,173.65,0.15,Debit Card
+ORD100206,2024-07-22,Sara Singh,Central,Groceries,Olive Oil 1L,1,27.43,0.0,Net Banking
+ORD100825,2024-03-06,Vikram Gupta,West,Furniture,Filing Cabinet,2,310.69,0.0,UPI
+ORD100986,2024-12-07,Ananya Singh,West,Office Supplies,Desk Organizer,4,351.7,0.0,UPI
+ORD100559,2024-11-30,Divya Kapoor,Central,Office Supplies,Desk Organizer,1,338.45,0.05,Cash on Delivery
+ORD100923,2024-05-13,Rahul Patel,Central,Office Supplies,Sticky Notes,7,409.86,0.15,Cash on Delivery
+ORD100276,2024-09-05,Karan Verma,Central,Furniture,Filing Cabinet,5,409.16,0.05,Debit Card
+ORD101146,2024-08-19,Vikram Gupta,South,Electronics,USB-C Hub,5,357.13,0.0,Credit Card
+ORD100585,2024-02-12,Anjali Kapoor,Central,Groceries,Protein Bars,7,307.69,0.15,Cash on Delivery
+ORD101071,2024-01-27,Anjali Verma,West,Groceries,Protein Bars,1,352.19,0.15,Cash on Delivery
+ORD100521,2025-04-12,Vikram Gupta,North,Groceries,Olive Oil 1L,5,454.92,0.05,Net Banking
+ORD101441,2024-03-09,Ananya Gupta,West,Electronics,Laptop Stand,3,76.18,0.2,Debit Card
+ORD100535,2024-05-02,Rahul Kapoor,South,Groceries,Green Tea Box,1,484.57,0.1,UPI
+ORD100063,2024-08-17,Aarav Kapoor,South,Electronics,Wireless Mouse,1,475.06,0.0,Debit Card
+ORD101376,2025-01-23,Diya Patel,East,Electronics,Wireless Mouse,6,116.29,0.0,Cash on Delivery
+ORD100676,2024-06-27,Isha Reddy,East,Electronics,Webcam HD,3,360.01,0.1,Net Banking
+ORD100316,2025-11-05,Vivaan Gupta,West,Furniture,Standing Desk,4,375.18,0.0,Net Banking
+ORD100983,2024-08-15,Sara Patel,East,Electronics,Laptop Stand,1,271.46,0.05,Debit Card
+ORD101468,2024-08-17,Rahul Kapoor,West,Groceries,Protein Bars,1,232.82,0.05,Credit Card
+ORD101295,2025-10-22,Nikhil Singh,South,Groceries,Protein Bars,5,483.5,0.15,Debit Card
+ORD100536,2024-04-01,Sara Sharma,North,Office Supplies,Desk Organizer,8,50.24,0.1,UPI
+ORD101158,2024-10-21,Nikhil Singh,East,Electronics,Wireless Mouse,3,254.1,0.15,Debit Card
+ORD101264,2024-12-31,Meera Iyer,West,Groceries,Protein Bars,2,113.37,0.2,UPI
+ORD100867,2024-04-01,Arjun Gupta,Central,Groceries,Coffee Beans 1kg,3,363.91,0.0,Cash on Delivery
+ORD100977,2024-04-28,Isha Verma,West,Groceries,Olive Oil 1L,4,125.46,0.0,Credit Card
+ORD100755,2024-12-11,Arjun Kapoor,Central,Office Supplies,Notebook Pack,6,23.5,0.15,Net Banking
+ORD100594,2024-05-14,Rahul Mehta,North,Office Supplies,Notebook Pack,5,11.04,0.05,Cash on Delivery
+ORD100155,2025-07-25,Nikhil Patel,East,Groceries,Protein Bars,5,363.25,0.15,Credit Card
+ORD100764,2025-02-24,Meera Patel,East,Furniture,Office Chair,-1,423.75,0.0,Cash on Delivery
+ORD100790,2025-04-24,Rohan Reddy,North,Office Supplies,Notebook Pack,6,356.58,0.05,UPI
+ORD100954,2025-07-04,Meera Singh,East,Office Supplies,Whiteboard,3,132.36,0.05,Net Banking
+ORD101193,2025-11-05,Anjali Kapoor,East,Office Supplies,Whiteboard,5,69.06,0.0,Cash on Delivery
+ORD100189,2025-01-12,Isha Reddy,West,Groceries,Olive Oil 1L,3,307.91,0.0,Net Banking
+ORD100190,2025-06-22,Isha Singh,West,Groceries,Almonds Pack,2,67.04,0.0,Cash on Delivery
+ORD101052,2025-03-20,Divya Patel,South,Furniture,Standing Desk,8,51.38,0.0,Debit Card
+ORD100575,2024-10-13,Rohan Verma,West,Office Supplies,Desk Organizer,6,449.1,0.15,Cash on Delivery
+ORD101239,2025-08-12,Karan Gupta,West,Furniture,Standing Desk,6,125.32,0.2,UPI
+ORD101070,2025-07-18,Rohan Verma,South,Groceries,Green Tea Box,4,414.77,0.0,Net Banking
+ORD100243,2025-10-20,Rohan Reddy,West,Groceries,Olive Oil 1L,6,349.67,0.05,Debit Card
+ORD101345,2024-07-15,Karan Kapoor,West,Furniture,Bookshelf,-1,348.66,0.0,Debit Card
+ORD101343,2024-03-19,Priya Iyer,Central,Furniture,Bookshelf,1,77.64,0.15,Credit Card
+ORD101383,2025-03-28,Kabir Kapoor,West,Electronics,Laptop Stand,4,54.44,0.1,UPI
+ORD101443,2025-02-15,Aditya Nair,North,Electronics,Webcam HD,3,106.89,0.0,Credit Card
+ORD100352,2024-11-21,Anjali Kapoor,South,Furniture,Monitor Arm,1,353.21,0.0,Cash on Delivery
+ORD100042,2024-01-25,Aditya Nair,Central,Office Supplies,Ballpoint Pens,6,142.91,0.0,Net Banking
+ORD101251,2024-10-19,Vivaan Gupta,West,Furniture,Filing Cabinet,6,379.86,0.0,Cash on Delivery
+ORD101030,2024-10-15,Pooja Patel,South,Groceries,Coffee Beans 1kg,7,127.63,0.0,UPI
+ORD101281,2025-10-07,Anjali Gupta,North,Electronics,Wireless Mouse,3,107.8,0.05,Debit Card
+ORD100765,2024-08-29,Diya Reddy,West,Groceries,Green Tea Box,2,79.23,0.0,Net Banking
+ORD100100,2024-04-12,Arjun Patel,North,Groceries,Coffee Beans 1kg,8,12.6,0.0,Net Banking
+ORD100287,2025-02-09,Neha Sharma,South,Electronics,Webcam HD,4,227.54,0.05,Debit Card
+ORD100846,2025-12-12,Vikram Nair,North,Office Supplies,Ballpoint Pens,8,21.14,0.0,Cash on Delivery
+ORD101008,2025-01-21,Ananya Mehta,East,Office Supplies,Ballpoint Pens,2,392.45,0.0,Cash on Delivery
+ORD101214,2024-11-17,Nikhil Iyer,West,Furniture,Monitor Arm,4,499.05,0.0,Credit Card
+ORD101208,2024-05-12,Diya Nair,West,Furniture,Office Chair,2,22.62,0.1,Net Banking
+ORD100564,2025-01-09,Aarav Reddy,South,Furniture,Standing Desk,6,175.54,0.15,UPI
+ORD100485,2025-03-12,Aditya Iyer,South,Furniture,Bookshelf,7,284.51,0.1,Net Banking
+ORD101099,2024-10-07,Arjun Mehta,South,Groceries,Coffee Beans 1kg,5,437.52,0.05,UPI
+ORD100209,2025-08-20,Anjali Kapoor,South,Furniture,Office Chair,8,136.44,0.15,Credit Card
+ORD100084,2024-09-27,Rohan Reddy,South,Office Supplies,Ballpoint Pens,2,274.56,0.15,Credit Card
+ORD101128,2025-12-04,Anjali Reddy,South,Furniture,Filing Cabinet,2,293.91,0.2,Debit Card
+ORD100251,2025-07-20,Neha Kapoor,South,Groceries,Protein Bars,3,102.11,0.0,Net Banking
+ORD101243,2024-03-24,Kabir Patel,West,Groceries,Almonds Pack,3,290.13,0.15,Credit Card
+ORD100077,2024-02-16,Rahul Verma,North,Electronics,Webcam HD,5,350.22,0.0,Cash on Delivery
+ORD100229,2025-04-10,Kabir Gupta,Central,Furniture,Filing Cabinet,8,379.89,0.2,Credit Card
+ORD101378,2025-01-07,Isha Reddy,Central,Electronics,Laptop Stand,2,476.25,0.1,Cash on Delivery
+ORD101227,2024-01-13,Ananya Singh,West,Electronics,USB-C Hub,6,418.82,0.2,Credit Card
+ORD100613,2025-06-20,Pooja Patel,South,Furniture,Bookshelf,3,385.89,0.0,Credit Card
+ORD101083,2024-07-18,Priya Nair,West,Furniture,Filing Cabinet,-1,487.06,0.15,Cash on Delivery
+ORD100572,2025-06-28,Vikram Sharma,North,Electronics,Bluetooth Speaker,4,252.82,0.05,Debit Card
+ORD101342,2024-10-08,Pooja Kapoor,West,Furniture,Filing Cabinet,4,459.79,0.2,Credit Card
+ORD100640,2025-04-28,Vikram Sharma,West,Electronics,Webcam HD,5,308.45,0.0,Net Banking
+ORD101114,2024-12-09,Kabir Kapoor,West,Office Supplies,Whiteboard,7,124.71,0.05,Credit Card
+ORD100675,2025-03-02,Pooja Singh,West,Groceries,Green Tea Box,4,75.83,0.0,Debit Card
+ORD100440,2025-07-13,Isha Patel,South,Office Supplies,Desk Organizer,5,227.16,0.15,Cash on Delivery
+ORD100420,2024-08-17,Diya Singh,East,Furniture,Monitor Arm,2,219.26,0.15,Net Banking
+ORD101115,2025-08-14,Neha Nair,Central,Groceries,Green Tea Box,7,488.79,0.0,Debit Card
+ORD100834,2025-10-08,Vikram Reddy,East,Furniture,Filing Cabinet,7,443.46,0.15,UPI
+ORD100747,2024-04-08,Meera Singh,West,Electronics,Webcam HD,8,397.4,0.0,Cash on Delivery
+ORD101351,2025-06-29,Anjali Verma,West,Office Supplies,Ballpoint Pens,5,204.45,0.15,Cash on Delivery
+ORD100695,2025-01-27,Vikram Verma,Central,Furniture,Filing Cabinet,1,185.96,0.0,Debit Card
+ORD100201,2025-06-11,Neha Mehta,West,Groceries,Almonds Pack,5,251.2,0.0,Debit Card
+ORD100350,2025-04-28,Diya Gupta,East,Furniture,Monitor Arm,4,487.12,0.0,Cash on Delivery
+ORD100878,2025-03-18,Rahul Nair,Central,Groceries,Protein Bars,2,341.69,0.05,Credit Card
+ORD101476,2025-05-26,Karan Verma,East,Electronics,Bluetooth Speaker,5,203.71,0.0,Net Banking
+ORD100905,2025-04-30,Anjali Sharma,South,Furniture,Monitor Arm,7,320.86,0.2,Debit Card
+ORD101044,2025-06-05,Kabir Patel,North,Groceries,Olive Oil 1L,7,203.42,0.0,Debit Card
+ORD101258,2024-12-09,Vivaan Iyer,North,Furniture,Filing Cabinet,2,354.87,0.0,Cash on Delivery
+ORD100641,2025-06-08,Meera Reddy,South,Groceries,Olive Oil 1L,6,213.4,0.2,Credit Card
+ORD100356,2025-01-17,Rohan Patel,West,Groceries,Olive Oil 1L,2,171.6,0.0,Net Banking
+ORD100693,2025-01-29,Aditya Kapoor,Central,Furniture,Monitor Arm,1,151.81,0.2,Cash on Delivery
+ORD100494,2025-07-26,Divya Iyer,Central,Furniture,Bookshelf,5,117.02,0.0,Credit Card
+ORD100181,2025-10-16,Ananya Sharma,South,Electronics,Wireless Mouse,7,184.84,0.2,Cash on Delivery
+ORD100245,2025-02-26,Kabir Nair,  north  ,Groceries,Olive Oil 1L,3,197.27,0.0,Net Banking
+ORD100822,2025-03-02,Isha Singh,South,Furniture,Filing Cabinet,3,312.81,0.0,Debit Card
+ORD100275,2025-09-09,Sara Reddy,West,Office Supplies,Ballpoint Pens,6,92.93,0.05,Cash on Delivery
+ORD100393,2024-09-22,Anjali Gupta,East,Groceries,Almonds Pack,7,369.68,0.1,Debit Card
+ORD100221,2025-10-29,Arjun Patel,North,Office Supplies,Whiteboard,1,457.05,0.0,Net Banking
+ORD100235,2024-07-03,Divya Iyer,West,Office Supplies,Ballpoint Pens,6,496.46,0.05,Credit Card
+ORD100035,2025-09-11,Aditya Mehta,West,Office Supplies,Sticky Notes,4,345.31,0.2,UPI
+ORD100086,2025-07-06,Sara Kapoor,East,Groceries,Almonds Pack,2,301.03,0.05,Credit Card
+ORD100157,2024-11-13,Pooja Verma,West,Groceries,Protein Bars,3,336.71,0.2,Cash on Delivery
+ORD101229,2025-08-16,Ananya Reddy,East,Electronics,USB-C Hub,6,476.88,0.05,UPI
+ORD101358,2025-02-13,Ananya Verma,West,Furniture,Office Chair,6,382.65,0.15,Cash on Delivery
+ORD101119,2024-09-02,Neha Reddy,  north  ,Office Supplies,Sticky Notes,4,270.03,0.0,UPI
+ORD100364,2024-06-13,Rahul Sharma,West,Electronics,Webcam HD,2,172.29,0.1,Debit Card
+ORD100832,2025-06-12,Pooja Verma,North,Furniture,Office Chair,8,77.06,0.0,UPI
+ORD100381,2025-09-11,Arjun Singh,Central,Electronics,Bluetooth Speaker,8,109.64,0.2,UPI
+ORD101379,2025-07-04,Diya Reddy,South,Electronics,Wireless Mouse,8,285.52,0.0,Debit Card
+ORD101339,2024-09-15,Vikram Reddy,South,Groceries,Protein Bars,5,384.58,0.0,UPI
+ORD100510,2025-02-11,Rahul Verma,West,Electronics,Bluetooth Speaker,1,111.66,0.0,UPI
+ORD100068,2025-03-19,Pooja Reddy,Central,Furniture,Filing Cabinet,3,220.57,0.15,Cash on Delivery
+ORD101354,2024-08-28,Priya Verma,West,Groceries,Olive Oil 1L,3,192.32,0.2,Debit Card
+ORD100895,2024-07-29,Karan Sharma,Central,Groceries,Green Tea Box,1,184.59,0.0,Credit Card
+ORD100813,2025-09-23,Aarav Gupta,North,Furniture,Filing Cabinet,5,48.38,0.0,Credit Card
+ORD100802,2024-10-18,Meera Kapoor,South,Office Supplies,Notebook Pack,5,247.97,0.05,UPI
+ORD100632,2025-01-13,,West,Electronics,Wireless Mouse,6,59.3,0.0,Cash on Delivery
+ORD100472,2025-03-26,Kabir Patel,South,Office Supplies,Desk Organizer,2,259.7,0.0,Debit Card
+ORD100927,2025-03-01,Ananya Kapoor,North,Office Supplies,Desk Organizer,7,231.62,0.15,Net Banking
+ORD100394,2025-12-03,Vikram Patel,East,Groceries,Protein Bars,5,423.48,0.2,Credit Card
+ORD101380,2024-08-21,Vikram Reddy,North,Groceries,Green Tea Box,1,489.79,0.0,Debit Card
+ORD100917,2025-08-24,Sara Kapoor,Central,Electronics,Webcam HD,1,461.46,0.0,Cash on Delivery
+ORD100348,2025-10-07,Rahul Nair,Central,Electronics,Laptop Stand,6,242.44,0.2,Cash on Delivery
+ORD100826,2024-12-14,Pooja Kapoor,North,Furniture,Office Chair,5,448.68,0.2,Credit Card
+ORD100330,2025-11-20,Neha Verma,West,Electronics,Bluetooth Speaker,4,403.15,0.0,UPI
+ORD100135,2025-12-20,Rohan Kapoor,West,Furniture,Bookshelf,6,8.02,0.2,Credit Card
+ORD101133,2025-01-15,Aarav Nair,South,Office Supplies,Sticky Notes,2,9.77,0.15,Net Banking
+ORD100010,2025-11-02,Diya Mehta,Central,Groceries,Almonds Pack,8,75.72,0.0,UPI
+ORD101249,2025-08-30,Pooja Kapoor,East,Furniture,Filing Cabinet,7,163.62,0.0,Credit Card
+ORD100864,2024-06-21,Divya Sharma,North,Office Supplies,Whiteboard,7,480.87,0.1,Net Banking
+ORD100011,2025-08-21,Pooja Singh,North,Groceries,Olive Oil 1L,7,184.19,0.0,Credit Card
+ORD100660,2024-01-20,Neha Reddy,South,Groceries,Green Tea Box,1,466.78,0.15,UPI
+ORD100993,2024-09-03,Neha Verma,West,Groceries,Almonds Pack,5,345.55,0.0,Net Banking
+ORD100931,2024-12-17,Priya Patel,East,Groceries,Green Tea Box,7,23.7,0.0,Net Banking
+ORD101045,2025-08-08,Pooja Singh,Central,Office Supplies,Whiteboard,1,440.18,0.2,Cash on Delivery
+ORD100285,2024-11-03,Priya Patel,South,Electronics,Wireless Mouse,1,425.34,0.15,Cash on Delivery
+ORD100703,2025-07-15,Meera Patel,East,Groceries,Almonds Pack,5,285.79,0.2,Debit Card
+ORD100371,2024-03-28,Diya Mehta,North,Furniture,Monitor Arm,7,485.5,0.1,Net Banking
+ORD101209,2024-11-06,Kabir Mehta,Central,Office Supplies,Notebook Pack,1,18.05,0.2,Net Banking
+ORD100599,2024-03-10,Priya Reddy,East,Groceries,Olive Oil 1L,2,149.95,0.0,Cash on Delivery
+ORD100126,2024-03-03,Divya Verma,North,Groceries,Almonds Pack,7,344.62,0.05,UPI
+ORD100408,2025-12-19,Priya Mehta,East,Office Supplies,Desk Organizer,1,154.05,0.15,Cash on Delivery
+ORD101442,2025-10-23,Isha Gupta,East,Groceries,Almonds Pack,4,128.04,0.0,Debit Card
+ORD101282,2025-02-16,Aditya Iyer,East,Groceries,Olive Oil 1L,4,34.17,0.05,UPI
+ORD100936,2024-02-19,Kabir Verma,North,Groceries,Green Tea Box,4,190.45,0.0,Net Banking
+ORD100542,2025-11-05,Nikhil Reddy,East,Groceries,Green Tea Box,8,384.04,0.0,Net Banking
+ORD100140,2024-02-26,,East,Electronics,Bluetooth Speaker,5,472.94,0.2,UPI
+ORD100261,2024-04-07,Anjali Singh,East,Electronics,Bluetooth Speaker,4,451.13,0.15,Credit Card
+ORD100474,2024-08-03,Anjali Kapoor,South,Office Supplies,Ballpoint Pens,1,125.62,0.0,Debit Card
+ORD100166,2025-02-28,Karan Gupta,North,Electronics,Laptop Stand,6,121.71,0.0,UPI
+ORD100227,2025-08-09,Priya Singh,East,Electronics,USB-C Hub,6,347.92,0.0,Debit Card
+ORD101272,2024-10-24,Diya Sharma,North,Office Supplies,Sticky Notes,6,209.63,0.1,Credit Card
+ORD100192,2025-06-14,Diya Nair,Central,Office Supplies,Sticky Notes,3,85.17,0.15,UPI
+ORD100307,2024-01-17,Kabir Patel,East,Electronics,Bluetooth Speaker,8,230.98,0.05,Debit Card
+ORD100648,2024-02-23,Vikram Gupta,West,Office Supplies,Ballpoint Pens,7,240.73,0.05,Net Banking
+ORD101153,2025-02-10,Karan Verma,North,Groceries,Olive Oil 1L,6,31.31,0.0,Net Banking
+ORD101325,2025-04-14,Kabir Patel,East,Groceries,Green Tea Box,8,5.42,0.0,UPI
+ORD100483,2025-07-10,Aarav Kapoor,Central,Groceries,Protein Bars,4,7.71,0.15,Credit Card
+ORD101219,2024-02-06,Rahul Sharma,East,Office Supplies,Ballpoint Pens,8,476.76,0.0,UPI
+ORD101098,2024-02-25,Ananya Verma,South,Office Supplies,Notebook Pack,7,138.57,0.15,Credit Card
+ORD101131,2025-06-07,Pooja Nair,West,Furniture,Monitor Arm,7,150.27,0.2,Credit Card
+ORD100321,2024-11-13,Vikram Nair,West,Electronics,Webcam HD,4,487.29,0.0,Cash on Delivery
+ORD101369,2024-12-03,Aditya Nair,East,Electronics,Laptop Stand,8,377.49,0.2,Net Banking
+ORD101300,2025-03-28,Karan Patel,North,Groceries,Protein Bars,2,281.16,0.05,UPI
+ORD100018,2025-12-07,Karan Singh,Central,Office Supplies,Sticky Notes,7,497.6,0.15,Net Banking
+ORD100629,2025-10-22,Aarav Patel,South,Electronics,Wireless Mouse,4,409.43,0.1,Net Banking
+ORD100431,2025-06-04,Priya Iyer,  central  ,Office Supplies,Whiteboard,3,366.59,0.0,Cash on Delivery
+ORD101478,2025-06-25,Anjali Kapoor,East,Electronics,Wireless Mouse,6,195.45,0.0,Credit Card
+ORD101274,2024-08-23,Neha Iyer,South,Office Supplies,Notebook Pack,5,376.21,0.2,UPI
+ORD101336,2025-12-30,Arjun Mehta,West,Furniture,Monitor Arm,6,60.28,0.0,Credit Card
+ORD101444,2025-06-17,Rahul Gupta,West,Furniture,Monitor Arm,2,386.97,0.1,UPI
+ORD101365,2024-02-03,Arjun Reddy,Central,Groceries,Olive Oil 1L,8,431.77,0.0,Credit Card
+ORD100208,2025-06-05,Karan Nair,North,Groceries,Olive Oil 1L,5,240.07,0.0,Net Banking
+ORD100238,2024-09-10,Priya Sharma,West,Groceries,Protein Bars,3,141.45,0.15,Cash on Delivery
+ORD100907,2024-09-17,Karan Gupta,Central,Electronics,Bluetooth Speaker,2,151.05,0.1,Credit Card
+ORD100346,2024-10-13,Diya Reddy,West,Groceries,Green Tea Box,1,308.98,0.1,Net Banking
+ORD101027,2025-05-05,Rohan Nair,West,Furniture,Office Chair,7,247.09,0.05,Cash on Delivery
+ORD100854,2024-03-28,Kabir Singh,Central,Office Supplies,Whiteboard,1,478.86,0.1,Credit Card
+ORD100341,2024-09-23,Vikram Gupta,North,Office Supplies,Notebook Pack,7,428.03,0.1,Net Banking
+ORD100630,2025-06-28,Sara Reddy,Central,Furniture,Filing Cabinet,8,101.85,0.15,UPI
+ORD100458,2025-10-22,Anjali Singh,  east  ,Electronics,USB-C Hub,2,129.09,0.0,UPI
+ORD100176,2025-07-10,Meera Nair,North,Groceries,Protein Bars,1,377.88,0.0,UPI
+ORD100550,2025-07-17,Nikhil Singh,East,Groceries,Olive Oil 1L,6,330.48,0.1,UPI
+ORD100301,2025-07-05,Pooja Verma,South,Office Supplies,Sticky Notes,5,148.22,0.0,Net Banking
+ORD100460,2025-09-23,Sara Iyer,South,Furniture,Monitor Arm,3,284.95,0.0,Credit Card
+ORD101297,2024-01-01,Divya Iyer,West,Furniture,Office Chair,1,72.8,0.2,UPI
+ORD100650,2025-11-30,Nikhil Reddy,East,Electronics,Wireless Mouse,6,478.31,0.05,UPI
+ORD101117,2024-06-11,Aarav Kapoor,South,Furniture,Standing Desk,2,51.17,0.05,Credit Card
+ORD100811,2025-09-10,Neha Verma,North,Furniture,Office Chair,7,269.52,0.0,Debit Card
+ORD101298,2024-11-05,Rahul Nair,East,Electronics,Bluetooth Speaker,7,191.77,0.05,Cash on Delivery
+ORD101283,2024-06-03,Kabir Mehta,West,Electronics,USB-C Hub,7,436.36,0.0,Cash on Delivery
+ORD100702,2024-01-23,Sara Singh,Central,Office Supplies,Whiteboard,6,208.79,0.0,Cash on Delivery
+ORD101386,2025-06-10,Sara Reddy,Central,Furniture,Bookshelf,5,434.29,0.0,Cash on Delivery
+ORD100464,2025-02-18,Rahul Patel,East,Office Supplies,Notebook Pack,5,274.02,0.1,Net Banking
+ORD101056,2024-03-26,Priya Mehta,East,Furniture,Standing Desk,1,397.24,0.0,Credit Card
+ORD100327,2024-06-10,Aarav Sharma,North,Furniture,Office Chair,2,118.06,0.1,Debit Card
+ORD101280,2024-01-26,Priya Reddy,East,Groceries,Green Tea Box,8,188.06,0.1,Debit Card
+ORD101120,2024-03-25,Priya Verma,South,Office Supplies,Notebook Pack,2,59.91,0.1,UPI
+ORD100988,2024-03-14,Neha Verma,South,Furniture,Bookshelf,4,352.05,0.1,UPI
+ORD101252,2024-10-11,Meera Reddy,West,Furniture,Office Chair,6,145.97,0.0,Net Banking
+ORD100060,2024-06-18,Anjali Sharma,North,Groceries,Green Tea Box,1,453.93,0.1,Net Banking
+ORD100014,2025-04-09,Meera Mehta,Central,Electronics,USB-C Hub,3,256.3,0.0,Debit Card
+ORD101064,2024-06-01,Rahul Verma,North,Office Supplies,Sticky Notes,3,198.35,0.15,Cash on Delivery
+ORD100859,2024-07-04,Rohan Iyer,East,Electronics,Wireless Mouse,5,198.02,0.0,UPI
+ORD101005,2025-11-04,Arjun Iyer,North,Office Supplies,Ballpoint Pens,3,161.6,0.2,Cash on Delivery
+ORD100808,2024-04-06,Isha Mehta,North,Groceries,Olive Oil 1L,5,180.95,0.1,Credit Card
+ORD100973,2025-04-07,Sara Sharma,East,Groceries,Olive Oil 1L,7,331.81,0.0,Credit Card
+ORD101033,2024-01-19,Meera Gupta,South,Office Supplies,Notebook Pack,1,193.27,0.1,UPI
+ORD100604,2024-02-16,Meera Reddy,North,Furniture,Bookshelf,4,10.59,0.0,UPI
+ORD100323,2025-03-20,Ananya Verma,North,Electronics,Laptop Stand,1,158.1,0.15,Debit Card
+ORD101012,2025-01-22,Nikhil Iyer,West,Furniture,Office Chair,6,355.21,0.0,Debit Card
+ORD100442,2024-01-06,Nikhil Sharma,Central,Furniture,Filing Cabinet,3,24.77,0.0,UPI
+ORD101467,2025-08-15,Nikhil Gupta,East,Office Supplies,Notebook Pack,8,270.0,0.0,Cash on Delivery
+ORD100738,2024-04-22,Vivaan Verma,East,Office Supplies,Ballpoint Pens,6,353.84,0.1,Net Banking
+ORD100555,2025-01-10,Anjali Iyer,Central,Office Supplies,Desk Organizer,5,406.48,0.0,Debit Card
+ORD100257,2025-12-15,Rohan Gupta,South,Groceries,Green Tea Box,2,459.43,0.1,Cash on Delivery
+ORD100561,2025-08-08,Pooja Iyer,South,Electronics,Webcam HD,7,134.97,0.05,Debit Card
+ORD100706,2024-02-12,Ananya Gupta,Central,Furniture,Monitor Arm,3,223.24,0.0,Credit Card
+ORD101416,2025-06-03,Aarav Sharma,West,Furniture,Filing Cabinet,5,256.82,0.05,Net Banking
+ORD100889,2025-03-31,Rohan Reddy,Central,Office Supplies,Desk Organizer,3,399.53,0.0,Net Banking
+ORD100073,2025-12-09,Karan Iyer,Central,Office Supplies,Sticky Notes,6,239.26,0.1,UPI
+ORD100258,2025-06-23,Karan Iyer,West,Furniture,Bookshelf,5,398.49,0.0,Cash on Delivery
+ORD101006,2024-09-10,Vikram Iyer,North,Electronics,USB-C Hub,2,268.08,0.15,UPI
+ORD100003,2025-10-27,Aarav Patel,West,Groceries,Green Tea Box,8,296.69,0.2,UPI
+ORD101377,2024-05-02,Aarav Mehta,South,Office Supplies,Sticky Notes,8,232.36,0.15,Debit Card
+ORD101172,2024-05-21,Aditya Patel,South,Furniture,Bookshelf,3,477.07,0.15,Net Banking
+ORD100684,2024-05-19,,North,Groceries,Green Tea Box,6,487.9,0.0,Cash on Delivery
+ORD100368,2024-01-27,Priya Reddy,West,Office Supplies,Desk Organizer,5,488.64,0.05,Net Banking
+ORD101135,2025-07-28,Arjun Iyer,East,Furniture,Monitor Arm,2,289.1,0.15,UPI
+ORD101487,2025-09-16,Meera Sharma,Central,Groceries,Protein Bars,8,496.18,0.2,Credit Card
+ORD100480,2024-04-30,Aarav Iyer,Central,Electronics,Laptop Stand,3,451.48,0.1,Net Banking
+ORD100997,2025-02-07,Priya Patel,Central,Groceries,Coffee Beans 1kg,2,377.99,0.0,Debit Card
+ORD100683,2025-05-11,Divya Patel,West,Electronics,Laptop Stand,3,112.0,0.1,UPI
+ORD101048,2024-08-03,Sara Verma,Central,Electronics,Wireless Mouse,6,318.18,0.0,UPI
+ORD100586,2025-10-18,Vivaan Gupta,Central,Electronics,Webcam HD,2,228.55,0.2,Cash on Delivery
+ORD100118,2025-02-28,Vivaan Nair,South,Electronics,Laptop Stand,7,469.83,0.0,Net Banking
+ORD101058,2024-02-27,Priya Mehta,East,Furniture,Monitor Arm,2,15.5,0.0,Credit Card
+ORD100006,2025-01-05,Meera Verma,South,Office Supplies,Notebook Pack,1,332.33,0.2,Credit Card
+ORD101408,2025-02-15,Sara Iyer,South,Furniture,Office Chair,7,14.34,0.0,UPI
+ORD101077,2025-02-14,Vikram Kapoor,North,Electronics,Bluetooth Speaker,7,95.93,0.15,Net Banking
+ORD101414,2025-08-27,Pooja Verma,  south  ,Electronics,Wireless Mouse,3,255.82,0.1,Debit Card
+ORD100969,2025-11-12,Neha Kapoor,Central,Electronics,Wireless Mouse,4,263.56,0.0,UPI
+ORD100704,2025-05-10,Divya Patel,Central,Furniture,Bookshelf,1,78.43,0.0,Debit Card
+ORD100446,2024-09-06,Neha Reddy,Central,Electronics,USB-C Hub,7,458.39,0.0,UPI
+ORD100137,2024-11-28,Vivaan Verma,East,Electronics,Wireless Mouse,3,82.92,0.1,Net Banking
+ORD100012,2024-04-22,Neha Kapoor,West,Office Supplies,Desk Organizer,7,300.22,0.05,Cash on Delivery
+ORD101061,2024-08-17,Priya Nair,North,Electronics,USB-C Hub,6,42.76,0.0,Credit Card
+ORD100333,2024-01-07,Aarav Nair,North,Groceries,Coffee Beans 1kg,4,273.06,0.15,Net Banking
+ORD100605,2024-11-03,Neha Kapoor,Central,Furniture,Office Chair,2,344.49,0.0,Credit Card
+ORD100569,2024-02-14,Nikhil Reddy,North,Furniture,Standing Desk,1,145.59,0.2,Net Banking
+ORD101084,2024-04-13,Vivaan Reddy,South,Office Supplies,Notebook Pack,7,241.09,0.2,Debit Card
+ORD101025,2025-11-03,Aarav Nair,South,Groceries,Green Tea Box,3,180.1,0.05,Credit Card
+ORD101454,2025-10-07,Aarav Singh,East,Furniture,Office Chair,5,460.73,0.2,UPI
+ORD100055,2024-09-22,Divya Verma,East,Office Supplies,Sticky Notes,8,315.24,0.0,Debit Card
+ORD100881,2024-03-05,Anjali Nair,East,Electronics,Wireless Mouse,8,218.81,0.0,Debit Card
+ORD100234,2025-03-09,Rahul Sharma,East,Furniture,Office Chair,1,467.62,0.0,Net Banking
+ORD100085,2024-03-02,Meera Iyer,East,Office Supplies,Sticky Notes,5,222.38,0.05,Cash on Delivery
+ORD100642,2025-12-12,Anjali Patel,Central,Furniture,Monitor Arm,5,35.4,0.05,Credit Card
+ORD101359,2025-10-30,Nikhil Gupta,South,Groceries,Almonds Pack,7,98.49,0.0,Cash on Delivery
+ORD100065,2024-04-27,Anjali Iyer,West,Office Supplies,Sticky Notes,2,291.45,0.0,Debit Card
+ORD101231,2024-07-07,Diya Sharma,East,Groceries,Olive Oil 1L,6,25.77,0.15,UPI
+ORD100188,2024-08-17,Aarav Nair,Central,Electronics,Bluetooth Speaker,3,122.18,0.05,Cash on Delivery
+ORD100817,2024-12-07,Rahul Kapoor,Central,Electronics,Wireless Mouse,7,489.85,0.2,Cash on Delivery
+ORD100152,2025-05-02,Sara Verma,Central,Office Supplies,Notebook Pack,8,56.23,0.2,Debit Card
+ORD101159,2024-06-23,Rohan Sharma,West,Furniture,Office Chair,3,97.74,0.05,Net Banking
+ORD101017,2024-09-07,Pooja Gupta,South,Electronics,Webcam HD,8,482.5,0.15,Credit Card
+ORD100389,2025-04-15,Nikhil Iyer,Central,Furniture,Standing Desk,8,154.56,0.1,Credit Card
+ORD100138,2025-11-08,Pooja Verma,East,Groceries,Almonds Pack,8,210.02,0.0,Net Banking
+ORD100173,2024-03-10,Sara Patel,North,Furniture,Standing Desk,2,386.89,0.15,UPI
+ORD100791,2024-02-15,Meera Reddy,Central,Office Supplies,Ballpoint Pens,5,375.17,0.05,UPI
+ORD100531,2024-07-15,Diya Iyer,West,Furniture,Filing Cabinet,1,65.37,0.2,Debit Card
+ORD100828,2024-04-17,Meera Singh,Central,Office Supplies,Notebook Pack,4,455.94,0.0,Net Banking
+ORD100456,2024-11-08,Pooja Patel,South,Office Supplies,Sticky Notes,4,209.26,0.15,Debit Card
+ORD101179,2025-07-10,Aarav Singh,Central,Furniture,Office Chair,7,67.34,0.15,Net Banking
+ORD101142,2024-08-19,,North,Office Supplies,Notebook Pack,4,363.43,0.2,Credit Card
+ORD100595,2025-05-20,Isha Kapoor,Central,Office Supplies,Desk Organizer,8,229.6,0.05,Credit Card
+ORD101060,2024-12-27,Priya Singh,South,Furniture,Standing Desk,7,344.95,0.15,Credit Card
+ORD101113,2024-01-05,Karan Mehta,Central,Groceries,Coffee Beans 1kg,1,17.99,0.2,UPI
+ORD100375,2024-03-09,Aditya Mehta,West,Electronics,Laptop Stand,7,278.27,0.2,Credit Card
+ORD101374,2024-09-22,Karan Patel,Central,Furniture,Monitor Arm,7,241.1,0.0,Cash on Delivery
+ORD100971,2025-11-12,Sara Verma,North,Groceries,Almonds Pack,1,487.78,0.2,Net Banking
+ORD100710,2024-12-12,Priya Reddy,North,Electronics,Laptop Stand,1,74.01,0.1,Net Banking
+ORD100161,2025-03-24,Divya Kapoor,East,Electronics,Laptop Stand,6,339.8,0.0,Net Banking
+ORD101265,2024-09-10,Priya Nair,West,Groceries,Coffee Beans 1kg,3,235.04,0.0,Debit Card
+ORD100051,2024-09-07,Anjali Gupta,West,Groceries,Olive Oil 1L,2,230.43,0.15,Net Banking
+ORD101160,2024-12-08,Aarav Kapoor,East,Electronics,Bluetooth Speaker,5,441.22,0.0,Net Banking
+ORD101069,2024-05-16,Rohan Reddy,West,Electronics,Wireless Mouse,6,183.62,0.2,Debit Card
+ORD100671,2025-03-12,Anjali Mehta,South,Furniture,Filing Cabinet,6,64.8,0.15,UPI
+ORD100033,2024-03-11,Vikram Reddy,Central,Office Supplies,Sticky Notes,5,83.08,0.2,Cash on Delivery
+ORD100239,2024-01-17,Divya Kapoor,North,Office Supplies,Desk Organizer,2,54.94,0.0,Debit Card
+ORD100737,2024-12-29,Priya Nair,North,Groceries,Almonds Pack,4,259.55,0.05,Net Banking
+ORD100355,2024-11-27,Priya Mehta,East,Electronics,Wireless Mouse,3,295.37,0.0,Credit Card
+ORD100165,2024-10-06,Diya Singh,East,Groceries,Olive Oil 1L,3,416.37,0.0,Credit Card
+ORD100487,2025-12-23,Ananya Verma,South,Groceries,Green Tea Box,2,375.17,0.05,Cash on Delivery
+ORD101228,2025-03-26,Vikram Gupta,West,Electronics,Laptop Stand,1,483.11,0.05,Credit Card
+ORD101001,2025-06-19,Vivaan Gupta,North,Furniture,Monitor Arm,4,345.53,0.15,Debit Card
+ORD100860,2025-01-19,Anjali Gupta,West,Electronics,Wireless Mouse,4,123.61,0.1,Cash on Delivery
+ORD100296,2024-08-18,Rahul Mehta,Central,Furniture,Standing Desk,8,285.0,0.2,Credit Card
+ORD101024,2025-02-08,Vikram Reddy,North,Furniture,Bookshelf,6,217.03,0.0,Net Banking
+ORD100475,2025-10-06,Ananya Mehta,West,Electronics,Webcam HD,3,32.68,0.0,Cash on Delivery
+ORD100987,2025-11-06,Rahul Nair,West,Office Supplies,Notebook Pack,7,172.02,0.15,Net Banking
+ORD100473,2025-01-05,Priya Singh,West,Electronics,Bluetooth Speaker,7,406.53,0.15,Net Banking
+ORD101028,2025-02-02,Rohan Nair,Central,Office Supplies,Notebook Pack,2,397.39,0.0,Credit Card
+ORD100821,2024-08-25,Divya Patel,East,Office Supplies,Whiteboard,6,461.26,0.2,Net Banking
+ORD100862,2024-01-30,Priya Gupta,Central,Groceries,Green Tea Box,1,138.23,0.1,Debit Card
+ORD100921,2024-08-26,Pooja Sharma,South,Furniture,Monitor Arm,2,230.06,0.0,UPI
+ORD100098,2025-12-15,Arjun Sharma,East,Office Supplies,Whiteboard,7,120.61,0.2,Net Banking
+ORD101079,2024-04-21,Sara Sharma,  south  ,Electronics,Wireless Mouse,6,303.58,0.2,UPI
+ORD100577,2025-07-09,Kabir Patel,East,Office Supplies,Desk Organizer,3,292.61,0.15,Cash on Delivery
+ORD101333,2024-07-02,Karan Verma,West,Office Supplies,Ballpoint Pens,2,235.14,0.0,Credit Card
+ORD100721,2025-05-19,Arjun Reddy,West,Electronics,Webcam HD,6,292.63,0.1,Credit Card
+ORD101309,2024-06-25,Pooja Iyer,South,Groceries,Coffee Beans 1kg,5,306.22,0.15,Credit Card
+ORD100551,2025-07-17,Sara Kapoor,South,Furniture,Bookshelf,7,383.27,0.05,Cash on Delivery
+ORD100309,2025-12-17,Kabir Singh,North,Office Supplies,Ballpoint Pens,2,353.33,0.0,Debit Card
+ORD100840,2025-04-04,Anjali Kapoor,Central,Furniture,Monitor Arm,1,229.31,0.0,Cash on Delivery
+ORD100829,2024-04-11,Kabir Singh,West,Office Supplies,Sticky Notes,6,410.48,0.0,Credit Card
+ORD100673,2025-12-14,Vivaan Patel,North,Furniture,Monitor Arm,3,222.14,0.1,Cash on Delivery
+ORD100937,2024-01-29,Diya Verma,South,Electronics,USB-C Hub,4,341.58,0.0,Debit Card
+ORD100434,2024-10-24,Sara Verma,East,Furniture,Standing Desk,3,254.43,0.15,Cash on Delivery
+ORD100583,2024-08-19,Diya Gupta,South,Electronics,Laptop Stand,1,463.09,0.05,Credit Card
+ORD101479,2024-06-25,Karan Verma,South,Office Supplies,Whiteboard,8,94.98,0.0,Cash on Delivery
+ORD101072,2024-06-10,Isha Sharma,Central,Electronics,Bluetooth Speaker,6,74.93,0.0,Net Banking
+ORD101199,2025-06-25,Priya Gupta,North,Office Supplies,Notebook Pack,1,316.41,0.15,Debit Card
+ORD100985,2025-05-29,Rahul Reddy,West,Electronics,USB-C Hub,8,317.38,0.0,Credit Card
+ORD100449,2025-07-04,Sara Sharma,North,Groceries,Coffee Beans 1kg,3,16.76,0.15,Credit Card
+ORD100767,2025-11-05,Isha Nair,Central,Office Supplies,Notebook Pack,8,392.21,0.0,UPI
+ORD100568,2025-06-19,Aarav Iyer,Central,Furniture,Monitor Arm,8,313.41,0.0,Cash on Delivery
+ORD100620,2025-03-12,Sara Gupta,Central,Groceries,Green Tea Box,8,310.08,0.0,Credit Card
+ORD101195,2025-05-26,Diya Verma,South,Groceries,Protein Bars,4,490.76,0.2,Net Banking
+ORD100493,2025-11-16,Isha Verma,Central,Groceries,Almonds Pack,4,261.28,0.15,UPI
+ORD100386,2024-10-18,Kabir Gupta,South,Electronics,Laptop Stand,1,85.64,0.1,Debit Card
+ORD100742,2025-02-14,Sara Gupta,Central,Electronics,Bluetooth Speaker,2,185.04,0.0,Net Banking
+ORD100282,2025-07-25,Anjali Mehta,South,Office Supplies,Ballpoint Pens,6,198.61,0.2,UPI
+ORD100746,2025-05-25,Rohan Reddy,Central,Electronics,Bluetooth Speaker,7,304.27,0.0,Cash on Delivery
+ORD101323,2024-10-02,Meera Kapoor,Central,Groceries,Olive Oil 1L,1,86.19,0.0,Debit Card
+ORD100484,2025-06-16,Arjun Nair,North,Electronics,Laptop Stand,4,345.44,0.0,Debit Card
+ORD101118,2025-09-24,Rohan Singh,East,Electronics,Webcam HD,7,17.52,0.15,Debit Card
+ORD100283,2024-01-26,Priya Patel,East,Groceries,Coffee Beans 1kg,5,210.91,0.0,UPI
+ORD100438,2025-10-24,Neha Iyer,West,Groceries,Green Tea Box,5,348.0,0.0,UPI
+ORD100260,2025-01-21,Rahul Iyer,East,Groceries,Coffee Beans 1kg,1,352.91,0.0,Cash on Delivery
+ORD100781,2024-08-17,Kabir Reddy,South,Electronics,Wireless Mouse,4,453.89,0.05,Credit Card
+ORD100549,2025-03-01,Arjun Verma,South,Electronics,Webcam HD,6,338.87,0.15,Debit Card
+ORD100853,2025-10-23,Meera Mehta,North,Electronics,Bluetooth Speaker,1,288.14,0.2,Cash on Delivery
+ORD101348,2025-09-05,Sara Gupta,North,Furniture,Office Chair,4,,0.15,Cash on Delivery
+ORD100783,2025-06-22,Kabir Gupta,East,Groceries,Almonds Pack,8,63.66,0.15,UPI
+ORD100818,2024-10-24,Nikhil Singh,South,Electronics,Laptop Stand,7,245.62,0.1,Credit Card
+ORD101082,2024-02-16,Karan Reddy,West,Electronics,USB-C Hub,2,472.04,0.0,Cash on Delivery
+ORD100953,2025-09-16,Arjun Verma,East,Groceries,Green Tea Box,8,14.81,0.05,Cash on Delivery
+ORD100674,2025-01-20,Ananya Verma,Central,Office Supplies,Notebook Pack,8,44.96,0.0,UPI
+ORD101445,2024-05-07,Sara Reddy,North,Groceries,Green Tea Box,2,440.71,0.2,Net Banking
+ORD100687,2025-05-15,Aarav Iyer,South,Office Supplies,Whiteboard,8,419.31,0.0,Debit Card
+ORD101269,2025-02-23,Priya Kapoor,Central,Office Supplies,Whiteboard,3,270.33,0.2,UPI
+ORD101435,2024-05-03,Vikram Verma,Central,Furniture,Standing Desk,6,156.98,0.05,Debit Card
+ORD100753,2025-08-20,Karan Iyer,East,Electronics,USB-C Hub,7,53.19,0.0,Credit Card
+ORD100122,2024-08-26,Rohan Mehta,East,Furniture,Standing Desk,1,142.25,0.0,Debit Card
+ORD101197,2025-10-08,Neha Patel,Central,Electronics,Bluetooth Speaker,6,58.29,0.05,Cash on Delivery
+ORD100700,2025-12-14,Aarav Reddy,West,Office Supplies,Ballpoint Pens,3,438.12,0.1,Cash on Delivery
+ORD101334,2024-06-13,Rahul Iyer,  west  ,Furniture,Standing Desk,7,344.72,0.0,Credit Card
+ORD100847,2025-02-22,Pooja Patel,North,Electronics,Wireless Mouse,6,288.02,0.0,UPI
+ORD100017,2025-11-06,Nikhil Iyer,South,Groceries,Olive Oil 1L,3,136.2,0.2,Cash on Delivery
+ORD101497,2024-10-20,Neha Gupta,North,Furniture,Monitor Arm,5,58.7,0.0,Cash on Delivery
+ORD100779,2025-12-31,Divya Singh,South,Office Supplies,Whiteboard,7,397.36,0.0,UPI
+ORD100998,2024-01-06,Kabir Patel,North,Groceries,Protein Bars,2,24.38,0.1,Cash on Delivery
+ORD101353,2024-06-08,Aarav Reddy,Central,Office Supplies,Whiteboard,6,284.62,0.05,Net Banking
+ORD101038,2025-01-05,Isha Verma,South,Furniture,Standing Desk,5,108.97,0.05,Cash on Delivery
+ORD100932,2025-05-11,Divya Patel,West,Groceries,Coffee Beans 1kg,2,276.47,0.0,UPI
+ORD100294,2024-01-10,Pooja Singh,West,Groceries,Green Tea Box,4,408.53,0.1,Net Banking
+ORD100903,2025-05-15,Isha Patel,Central,Office Supplies,Notebook Pack,8,396.54,0.1,Net Banking
+ORD100040,2025-02-26,Diya Reddy,South,Electronics,Bluetooth Speaker,6,392.28,0.05,Credit Card
+ORD100107,2024-12-19,Kabir Iyer,West,Furniture,Filing Cabinet,5,231.13,0.0,Credit Card
+ORD100727,2024-04-14,Vikram Kapoor,Central,Office Supplies,Desk Organizer,4,416.63,0.2,Cash on Delivery
+ORD100024,2025-07-03,Diya Verma,West,Groceries,Green Tea Box,-1,95.83,0.05,Cash on Delivery
+ORD100711,2025-09-24,Nikhil Gupta,Central,Office Supplies,Ballpoint Pens,6,50.78,0.0,Cash on Delivery
+ORD100070,2025-04-20,Ananya Singh,South,Groceries,Protein Bars,1,249.68,0.0,UPI
+ORD101016,2025-05-24,Aarav Iyer,Central,Electronics,Laptop Stand,1,310.06,0.2,UPI
+ORD100426,2025-04-10,Divya Verma,North,Furniture,Monitor Arm,8,359.75,0.0,Debit Card
+ORD101484,2025-01-01,Sara Mehta,Central,Electronics,Laptop Stand,2,424.65,0.0,Cash on Delivery
+ORD101331,2024-03-20,Meera Iyer,North,Office Supplies,Desk Organizer,8,98.05,0.0,UPI
+ORD100104,2025-01-02,Anjali Patel,South,Furniture,Filing Cabinet,3,125.88,0.05,Debit Card
+ORD100556,2024-03-20,Anjali Verma,Central,Furniture,Filing Cabinet,3,246.7,0.15,UPI
+ORD101230,2025-05-21,Vivaan Gupta,North,Office Supplies,Desk Organizer,3,77.72,0.1,Credit Card
+ORD101288,2025-01-15,Nikhil Nair,Central,Office Supplies,Desk Organizer,5,264.01,0.0,Cash on Delivery
+ORD101117,2024-06-11,Aarav Kapoor,South,Furniture,Standing Desk,2,51.17,0.05,Credit Card
+ORD100946,2025-10-19,Rohan Reddy,East,Electronics,Bluetooth Speaker,8,370.93,0.0,Credit Card
+ORD101420,2025-11-07,Ananya Patel,Central,Furniture,Bookshelf,7,412.51,0.05,Debit Card
+ORD100075,2025-12-07,Anjali Mehta,Central,Office Supplies,Desk Organizer,4,370.61,0.0,UPI
+ORD100508,2024-08-29,Rohan Singh,North,Groceries,Almonds Pack,4,77.19,0.15,Debit Card
+ORD101369,2024-12-03,Aditya Nair,East,Electronics,Laptop Stand,8,377.49,0.2,Net Banking
+ORD100219,2025-02-27,Aarav Mehta,South,Furniture,Filing Cabinet,2,342.19,0.0,Net Banking
+ORD101337,2024-06-02,Nikhil Singh,West,Electronics,USB-C Hub,5,102.82,0.2,Credit Card
+ORD101081,2025-10-15,Anjali Sharma,Central,Electronics,Bluetooth Speaker,5,47.09,0.1,Net Banking
+ORD100266,2025-07-20,Neha Verma,Central,Groceries,Almonds Pack,3,341.45,0.15,UPI
+ORD100941,2024-02-14,Rahul Verma,Central,Electronics,Bluetooth Speaker,7,154.26,0.1,Cash on Delivery
+ORD101382,2025-04-20,Isha Gupta,West,Electronics,Webcam HD,1,162.83,0.15,Credit Card
+ORD100435,2025-05-06,Aarav Mehta,North,Groceries,Olive Oil 1L,5,439.35,0.05,Credit Card
+ORD100111,2025-03-27,Meera Nair,  west  ,Electronics,Webcam HD,6,367.52,0.0,Debit Card
+ORD100511,2024-09-23,Priya Nair,Central,Furniture,Bookshelf,5,175.35,0.05,Debit Card
+ORD100041,2025-01-26,Karan Reddy,South,Electronics,Laptop Stand,4,103.79,0.05,Debit Card
+ORD100505,2025-01-23,Ananya Mehta,East,Electronics,USB-C Hub,6,308.33,0.0,Debit Card
+ORD100277,2025-08-29,Kabir Singh,East,Office Supplies,Whiteboard,1,476.74,0.05,Credit Card
+ORD100810,2025-08-24,Ananya Gupta,South,Groceries,Almonds Pack,5,173.96,0.2,Credit Card
+ORD100340,2024-08-08,Neha Mehta,North,Furniture,Standing Desk,2,357.02,0.0,UPI
+ORD101132,2024-04-27,Diya Verma,South,Office Supplies,Sticky Notes,7,396.49,0.0,UPI
+ORD100452,2024-03-05,Meera Reddy,Central,Electronics,Wireless Mouse,6,464.38,0.0,Credit Card
+ORD101190,2024-05-22,Karan Mehta,Central,Groceries,Almonds Pack,5,9.51,0.0,Debit Card
+ORD100186,2024-05-05,Divya Verma,East,Office Supplies,Notebook Pack,8,90.46,0.15,UPI
+ORD100799,2025-11-04,Sara Kapoor,South,Electronics,USB-C Hub,1,329.81,0.05,Debit Card
+ORD101093,2024-06-07,Isha Gupta,West,Electronics,USB-C Hub,7,83.31,0.05,Net Banking
+ORD100745,2024-05-05,Aarav Verma,North,Furniture,Filing Cabinet,8,119.26,0.0,Credit Card
+ORD100944,2025-10-17,Priya Reddy,South,Office Supplies,Whiteboard,1,120.14,0.1,Net Banking
+ORD101148,2024-04-17,Divya Patel,Central,Furniture,Standing Desk,6,381.44,0.0,Credit Card
+ORD101013,2025-03-25,Pooja Gupta,East,Furniture,Filing Cabinet,5,141.53,0.05,Credit Card
+ORD100062,2025-01-23,Aarav Mehta,North,Furniture,Filing Cabinet,5,418.28,0.05,UPI
+ORD100926,2024-04-03,Meera Iyer,Central,Furniture,Filing Cabinet,6,351.66,0.15,Debit Card
+ORD100579,2024-05-29,Divya Reddy,South,Electronics,USB-C Hub,7,480.79,0.0,Debit Card
+ORD100798,2024-04-18,Rahul Singh,East,Furniture,Standing Desk,1,45.13,0.2,Cash on Delivery
+ORD100656,2025-11-07,Sara Reddy,South,Electronics,Laptop Stand,5,385.83,0.15,Credit Card
+ORD101014,2024-11-08,Diya Verma,South,Groceries,Protein Bars,2,319.16,0.0,Cash on Delivery
+ORD100388,2025-09-07,Aditya Iyer,West,Electronics,Bluetooth Speaker,5,306.13,0.0,UPI
+ORD100128,2025-09-03,Priya Mehta,South,Furniture,Filing Cabinet,7,54.09,0.15,Net Banking
+ORD101426,2025-01-09,Anjali Gupta,South,Electronics,Laptop Stand,8,375.62,0.2,Debit Card
+ORD100252,2025-07-17,Rahul Singh,South,Furniture,Bookshelf,8,483.42,0.15,UPI
+ORD101299,2024-11-20,Aditya Patel,West,Electronics,Webcam HD,4,477.9,0.15,Cash on Delivery
+ORD100544,2024-07-25,Neha Singh,Central,Electronics,Laptop Stand,4,53.88,0.1,Cash on Delivery
+ORD100308,2024-10-07,Ananya Sharma,West,Electronics,USB-C Hub,5,45.8,0.15,UPI
+ORD100194,2025-10-18,Nikhil Nair,Central,Office Supplies,Whiteboard,3,89.74,0.1,Credit Card
+ORD100647,2024-08-31,Karan Sharma,East,Groceries,Green Tea Box,4,290.99,0.2,Credit Card
+ORD100503,2025-08-13,Vivaan Mehta,East,Office Supplies,Notebook Pack,7,241.77,0.1,Net Banking
+ORD100034,2024-01-09,Vikram Patel,East,Furniture,Office Chair,3,135.91,0.0,UPI
+ORD101126,2024-05-21,Kabir Verma,East,Office Supplies,Notebook Pack,3,137.46,0.05,Cash on Delivery
+ORD100801,2024-09-18,Kabir Patel,West,Office Supplies,Desk Organizer,7,49.15,0.2,Net Banking
+ORD100925,2025-09-11,Divya Singh,Central,Office Supplies,Whiteboard,6,455.6,0.05,Credit Card
+ORD100058,2025-08-12,Neha Iyer,Central,Groceries,Almonds Pack,1,471.66,0.0,Cash on Delivery
+ORD100996,2025-08-08,Vikram Patel,West,Office Supplies,Notebook Pack,6,36.43,0.2,Credit Card
+ORD100359,2024-11-21,Sara Verma,South,Office Supplies,Whiteboard,2,468.66,0.0,UPI
+ORD101314,2024-07-11,Divya Reddy,North,Furniture,Standing Desk,3,489.74,0.0,Net Banking
+ORD100046,2024-03-12,Meera Mehta,East,Furniture,Monitor Arm,6,333.38,0.0,Net Banking
+ORD101198,2024-07-23,Diya Gupta,South,Office Supplies,Sticky Notes,8,221.57,0.0,Net Banking
+ORD101143,2024-09-22,Aditya Nair,Central,Electronics,Wireless Mouse,1,473.84,0.0,Net Banking
+ORD100882,2024-04-20,Sara Mehta,South,Groceries,Green Tea Box,6,417.1,0.2,Credit Card
+ORD100069,2025-05-10,Isha Reddy,West,Groceries,Almonds Pack,5,164.54,0.0,Debit Card
+ORD100319,2024-01-15,Neha Mehta,East,Furniture,Standing Desk,1,461.68,0.2,Cash on Delivery
+ORD100292,2025-02-01,,Central,Groceries,Olive Oil 1L,3,289.53,0.05,Debit Card
+ORD100047,2024-11-30,Neha Patel,Central,Groceries,Protein Bars,3,99.96,0.15,Cash on Delivery
+ORD100278,2025-02-22,Rohan Iyer,West,Groceries,Green Tea Box,5,124.8,0.15,Credit Card
+ORD101395,2025-01-17,Vikram Mehta,South,Electronics,USB-C Hub,7,396.51,0.0,Debit Card
+ORD100298,2025-03-11,Divya Reddy,East,Electronics,Bluetooth Speaker,5,438.03,0.0,Credit Card
+ORD100225,2025-09-17,Priya Patel,South,Groceries,Almonds Pack,6,47.94,0.15,Net Banking
+ORD100865,2025-09-27,Aditya Kapoor,  east  ,Furniture,Standing Desk,1,34.79,0.05,Net Banking
+ORD100930,2025-04-06,Aarav Verma,West,Office Supplies,Sticky Notes,4,255.5,0.05,Net Banking
+ORD101090,2025-03-28,Meera Iyer,West,Office Supplies,Notebook Pack,8,24.6,0.2,Cash on Delivery
+ORD101086,2025-06-12,Nikhil Iyer,North,Furniture,Filing Cabinet,3,172.82,0.0,Net Banking
+ORD100365,2025-09-13,Kabir Iyer,Central,Groceries,Green Tea Box,1,55.12,0.0,Cash on Delivery
+ORD100428,2024-05-23,Priya Iyer,South,Groceries,Coffee Beans 1kg,5,307.37,0.0,Net Banking
+ORD100841,2024-08-27,Anjali Patel,West,Furniture,Bookshelf,5,335.13,0.2,Cash on Delivery
+ORD100367,2024-02-25,Nikhil Singh,South,Furniture,Office Chair,7,48.38,0.2,Credit Card
+ORD100001,2025-10-16,Priya Mehta,North,Electronics,Wireless Mouse,5,126.22,0.0,Cash on Delivery
+ORD100774,2025-03-29,Meera Verma,South,Groceries,Coffee Beans 1kg,7,464.12,0.0,UPI
+ORD100843,2025-02-25,Rahul Gupta,West,Electronics,Wireless Mouse,1,215.32,0.0,Credit Card
+ORD101059,2025-06-07,Diya Iyer,West,Groceries,Green Tea Box,1,456.52,0.0,Debit Card
+ORD100067,2025-06-29,Aarav Iyer,West,Groceries,Protein Bars,2,255.45,0.0,Credit Card
+ORD101434,2024-03-05,Priya Gupta,West,Furniture,Filing Cabinet,1,482.55,0.0,Credit Card
+ORD100032,2024-01-10,Pooja Reddy,South,Groceries,Olive Oil 1L,2,41.26,0.0,UPI
+ORD100868,2024-11-21,,South,Furniture,Bookshelf,8,140.14,0.15,Net Banking
+ORD101092,2025-06-02,Vivaan Gupta,Central,Groceries,Protein Bars,1,312.2,0.15,Credit Card
+ORD101155,2025-06-15,Diya Verma,North,Groceries,Coffee Beans 1kg,1,324.94,0.0,Credit Card
+ORD100029,2024-03-23,Neha Verma,Central,Office Supplies,Notebook Pack,2,339.23,0.0,Debit Card
+ORD100295,2025-03-01,Diya Reddy,North,Groceries,Almonds Pack,3,45.92,0.0,UPI
+ORD101241,2025-10-31,Diya Kapoor,South,Groceries,Olive Oil 1L,4,227.24,0.05,Cash on Delivery
+ORD100114,2025-02-08,Aditya Kapoor,West,Electronics,USB-C Hub,2,230.12,0.15,UPI
+ORD100246,2025-01-14,Nikhil Kapoor,North,Electronics,Webcam HD,4,30.51,0.05,Credit Card
+ORD100416,2025-02-14,Rahul Iyer,South,Groceries,Almonds Pack,5,418.68,0.15,Credit Card
+ORD100770,2024-12-03,Ananya Gupta,East,Groceries,Green Tea Box,7,112.91,0.0,Net Banking
+ORD100162,2024-08-27,Karan Kapoor,West,Office Supplies,Sticky Notes,8,452.47,0.0,Net Banking
+ORD100679,2024-06-12,Aditya Nair,Central,Electronics,Wireless Mouse,6,146.11,0.05,Net Banking
+ORD100412,2024-01-14,Pooja Verma,North,Electronics,Wireless Mouse,8,78.83,0.0,UPI
+ORD101177,2024-12-28,Aarav Mehta,North,Groceries,Almonds Pack,7,480.92,0.05,Net Banking
+ORD100039,2025-11-13,Rohan Gupta,South,Electronics,USB-C Hub,7,487.05,0.15,Debit Card
+ORD100117,2024-04-09,Vikram Iyer,Central,Office Supplies,Whiteboard,3,197.38,0.0,Debit Card
+ORD101447,2024-04-15,Rahul Iyer,West,Electronics,Webcam HD,6,124.44,0.2,Credit Card
+ORD100002,2025-03-08,Nikhil Sharma,Central,Electronics,Wireless Mouse,2,113.23,0.1,Debit Card
+ORD101453,2025-08-10,Kabir Kapoor,South,Electronics,Laptop Stand,7,336.19,0.0,Credit Card
+ORD100248,2024-04-30,Vikram Nair,East,Groceries,Green Tea Box,4,201.33,0.0,Net Banking
+ORD101388,2024-07-02,Divya Nair,Central,Electronics,Laptop Stand,5,51.81,0.2,Debit Card
+ORD100666,2025-07-07,Vivaan Nair,North,Furniture,Filing Cabinet,8,483.45,0.0,UPI
+ORD101437,2025-07-30,Pooja Patel,East,Electronics,Webcam HD,6,272.03,0.15,Debit Card
+ORD101139,2024-03-12,Sara Nair,West,Groceries,Coffee Beans 1kg,7,363.01,0.0,Credit Card
+ORD101384,2025-08-05,Divya Gupta,Central,Electronics,Webcam HD,7,431.26,0.0,Cash on Delivery
+ORD100093,2024-09-02,Diya Verma,West,Office Supplies,Sticky Notes,1,278.36,0.0,Credit Card
+ORD100382,2024-02-27,Rohan Mehta,Central,Office Supplies,Notebook Pack,5,356.24,0.05,Credit Card
+ORD100115,2024-04-20,Sara Kapoor,South,Office Supplies,Ballpoint Pens,1,311.68,0.1,Credit Card
+ORD101216,2025-12-31,Pooja Reddy,East,Furniture,Bookshelf,5,435.14,0.0,Cash on Delivery
+ORD101095,2024-04-20,Sara Nair,Central,Groceries,Almonds Pack,4,203.75,0.0,Net Banking
+ORD100255,2024-08-11,Nikhil Singh,West,Groceries,Protein Bars,1,310.83,0.15,Credit Card
+ORD100430,2025-11-05,Vikram Iyer,Central,Office Supplies,Ballpoint Pens,1,267.53,0.0,Net Banking
+ORD100589,2025-04-19,Vikram Patel,West,Groceries,Coffee Beans 1kg,2,93.99,0.1,Net Banking
+ORD100179,2024-07-03,Meera Reddy,West,Furniture,Bookshelf,2,44.63,0.15,Cash on Delivery
+ORD101212,2025-03-23,Diya Iyer,Central,Electronics,Bluetooth Speaker,4,50.54,0.0,Cash on Delivery
+ORD101273,2025-06-23,Ananya Reddy,East,Electronics,Webcam HD,7,396.72,0.0,Credit Card
+ORD100390,2024-01-08,Rahul Verma,East,Furniture,Monitor Arm,5,152.75,0.0,UPI
+ORD100133,2025-06-03,Karan Mehta,East,Office Supplies,Desk Organizer,8,116.0,0.0,Credit Card
+ORD101080,2024-06-15,Meera Gupta,Central,Electronics,Wireless Mouse,4,300.57,0.2,Debit Card
+ORD101485,2025-12-20,Divya Gupta,East,Groceries,Olive Oil 1L,4,144.87,0.0,Net Banking
+ORD100571,2025-10-26,Priya Nair,West,Groceries,Green Tea Box,7,256.73,0.15,Cash on Delivery
+ORD100290,not_a_date,Ananya Reddy,Central,Electronics,USB-C Hub,6,423.53,0.1,Cash on Delivery
+ORD100247,2024-07-11,Meera Sharma,South,Office Supplies,Ballpoint Pens,4,435.39,0.0,Debit Card
+ORD101127,2025-10-29,Kabir Reddy,South,Furniture,Filing Cabinet,8,220.85,0.05,Debit Card
+ORD100776,2025-05-18,Priya Patel,East,Groceries,Almonds Pack,6,360.11,0.2,Cash on Delivery
+ORD100553,2024-10-18,Aarav Reddy,South,Electronics,Webcam HD,3,496.74,0.0,Debit Card
+ORD100090,2025-07-17,Priya Iyer,Central,Electronics,Laptop Stand,2,160.69,0.0,Credit Card
+ORD100193,2024-03-21,Nikhil Mehta,North,Furniture,Standing Desk,5,66.96,0.0,Cash on Delivery
+ORD101021,2025-05-14,Meera Nair,North,Electronics,USB-C Hub,1,309.69,0.0,Credit Card
+ORD101491,2025-05-22,Kabir Verma,East,Office Supplies,Whiteboard,1,27.39,0.05,Credit Card
+ORD101470,2025-11-29,Aarav Kapoor,West,Furniture,Office Chair,5,287.03,0.15,Net Banking
+ORD100437,2024-03-04,Priya Kapoor,Central,Furniture,Standing Desk,1,,0.05,Debit Card
+ORD101023,2025-06-10,Rohan Reddy,South,Office Supplies,Ballpoint Pens,2,456.99,0.0,Net Banking
+ORD100958,2025-03-22,Vivaan Iyer,West,Furniture,Bookshelf,8,319.31,0.0,Debit Card
+ORD100652,2024-12-11,Isha Sharma,  west  ,Office Supplies,Sticky Notes,1,338.04,0.2,Credit Card
+ORD100980,2025-01-25,Isha Verma,North,Groceries,Green Tea Box,4,133.25,0.0,UPI
+ORD100147,2024-05-29,Isha Patel,West,Furniture,Standing Desk,3,303.19,0.2,Net Banking
+ORD100119,2025-03-31,Vikram Nair,North,Office Supplies,Sticky Notes,2,490.56,0.0,Net Banking
+ORD101015,2024-02-28,Arjun Mehta,South,Electronics,USB-C Hub,8,405.13,0.0,Net Banking
+ORD101455,2025-11-30,Vivaan Nair,West,Furniture,Bookshelf,4,141.93,0.2,UPI
+ORD100534,2025-11-13,Aarav Patel,East,Office Supplies,Notebook Pack,4,318.29,0.0,Cash on Delivery
+ORD100863,2024-11-07,Kabir Patel,East,Groceries,Almonds Pack,2,423.91,0.1,Cash on Delivery
+ORD100803,2025-11-12,Rahul Reddy,Central,Electronics,USB-C Hub,4,247.36,0.05,Cash on Delivery
+ORD100023,2025-11-20,Priya Gupta,South,Electronics,Wireless Mouse,7,365.47,0.2,Debit Card
+ORD101266,2025-05-10,Meera Reddy,Central,Groceries,Olive Oil 1L,7,345.17,0.0,Debit Card
+ORD101007,2025-10-17,Diya Reddy,North,Electronics,USB-C Hub,6,390.15,0.0,Credit Card
+ORD101124,2024-12-17,Aditya Verma,South,Furniture,Filing Cabinet,1,83.4,0.15,Cash on Delivery
+ORD100898,2024-07-01,Aarav Patel,West,Office Supplies,Notebook Pack,3,422.23,0.0,Credit Card
+ORD101037,2025-01-07,Vikram Patel,East,Furniture,Bookshelf,2,52.96,0.0,UPI
+ORD100027,2025-03-09,Anjali Mehta,North,Groceries,Green Tea Box,4,151.87,0.0,UPI
+ORD100677,2024-01-05,Nikhil Nair,Central,Office Supplies,Desk Organizer,2,493.37,0.0,Cash on Delivery
+ORD100015,2024-06-05,Aarav Verma,East,Furniture,Standing Desk,1,301.48,0.05,UPI
+ORD100501,2024-04-19,Vikram Sharma,West,Electronics,Wireless Mouse,8,308.84,0.2,UPI
+ORD101234,2024-05-26,Karan Singh,East,Electronics,USB-C Hub,6,170.82,0.05,Cash on Delivery
+ORD100888,2025-08-30,Karan Iyer,West,Office Supplies,Whiteboard,3,320.5,0.0,Cash on Delivery
+ORD100083,2025-12-06,Meera Singh,North,Groceries,Protein Bars,1,119.58,0.15,Debit Card
+ORD100354,2024-08-12,Kabir Patel,East,Electronics,Webcam HD,8,5.34,0.1,Debit Card
+ORD101267,2025-02-22,Arjun Iyer,West,Electronics,Webcam HD,6,134.49,0.0,Net Banking
+ORD101425,2025-07-03,Aditya Patel,East,Groceries,Green Tea Box,1,159.16,0.05,Cash on Delivery
+ORD101206,2024-09-24,Sara Sharma,South,Office Supplies,Sticky Notes,1,73.95,0.1,Net Banking
+ORD100601,2025-12-24,Nikhil Nair,South,Furniture,Filing Cabinet,6,133.53,0.1,Cash on Delivery
+ORD100876,2025-11-19,Aditya Kapoor,South,Office Supplies,Notebook Pack,3,374.26,0.0,Cash on Delivery
+ORD100274,2025-09-27,Nikhil Patel,East,Groceries,Protein Bars,8,170.69,0.2,UPI
+ORD100913,2025-04-28,Kabir Singh,South,Office Supplies,Ballpoint Pens,4,117.33,0.15,Cash on Delivery
+ORD100685,2024-03-02,Arjun Patel,East,Furniture,Standing Desk,2,426.57,0.05,Debit Card
+ORD101125,2024-01-31,Priya Gupta,North,Electronics,Webcam HD,3,112.07,0.0,UPI
+ORD100467,2025-08-02,Rahul Gupta,North,Office Supplies,Ballpoint Pens,6,25.01,0.2,UPI
+ORD101390,2025-12-02,Sara Patel,South,Furniture,Monitor Arm,4,287.65,0.0,Net Banking
+ORD101319,2024-02-04,Ananya Iyer,West,Furniture,Office Chair,6,435.32,0.0,UPI
+ORD100663,2025-07-01,Kabir Patel,Central,Furniture,Office Chair,-1,381.42,0.0,Credit Card
+ORD100939,2025-07-08,Karan Nair,South,Groceries,Almonds Pack,2,120.04,0.0,Credit Card
+ORD100448,2024-04-08,Kabir Iyer,North,Office Supplies,Whiteboard,1,315.33,0.0,Debit Card
+ORD100372,2025-06-19,Rahul Reddy,North,Groceries,Olive Oil 1L,8,288.49,0.0,Net Banking
+ORD100558,2024-08-20,Sara Mehta,Central,Electronics,Laptop Stand,1,155.87,0.0,Debit Card
+ORD100855,2024-05-03,Anjali Singh,North,Office Supplies,Notebook Pack,5,394.44,0.0,Cash on Delivery
+ORD100995,2024-01-24,Neha Singh,West,Groceries,Protein Bars,2,398.2,0.0,UPI
+ORD101064,2024-06-01,Rahul Verma,North,Office Supplies,Sticky Notes,3,198.35,0.15,Cash on Delivery
+ORD100272,2024-06-20,Isha Nair,East,Groceries,Protein Bars,7,153.38,0.2,Debit Card
+ORD100606,2024-06-28,Rahul Sharma,South,Office Supplies,Sticky Notes,6,461.53,0.05,Net Banking
+ORD100450,2024-02-25,Aditya Iyer,West,Office Supplies,Sticky Notes,2,289.61,0.0,Net Banking
+ORD101477,2024-04-06,Karan Verma,South,Furniture,Office Chair,1,491.1,0.0,Credit Card
+ORD100524,2024-10-26,Arjun Iyer,South,Office Supplies,Notebook Pack,6,98.34,0.1,Debit Card
+ORD100215,2025-05-06,Vikram Iyer,West,Furniture,Monitor Arm,5,147.46,0.1,UPI
+ORD100345,2025-02-08,Karan Gupta,South,Groceries,Coffee Beans 1kg,7,343.19,0.0,UPI
+ORD100839,2025-03-08,Karan Verma,North,Electronics,Wireless Mouse,6,133.58,0.1,Credit Card
+ORD101315,2024-12-29,Ananya Sharma,Central,Furniture,Bookshelf,8,415.6,0.15,Net Banking
+ORD100148,2025-07-31,Sara Patel,West,Groceries,Olive Oil 1L,6,432.8,0.15,Credit Card
+ORD101461,2024-12-14,Meera Kapoor,Central,Furniture,Filing Cabinet,3,461.02,0.0,Credit Card
+ORD101186,2024-05-06,Diya Patel,Central,Groceries,Green Tea Box,1,96.48,0.2,Cash on Delivery
+ORD100724,2025-10-16,Priya Kapoor,South,Electronics,Webcam HD,4,384.39,0.0,Cash on Delivery
+ORD100413,2025-10-21,Priya Patel,North,Office Supplies,Ballpoint Pens,5,135.74,0.0,UPI
+ORD100689,2024-02-15,Rahul Verma,West,Electronics,Laptop Stand,1,215.72,0.05,Net Banking
+ORD101355,2024-08-04,Neha Mehta,West,Electronics,Webcam HD,5,93.42,0.0,UPI
+ORD100784,2025-05-21,Kabir Reddy,South,Groceries,Green Tea Box,7,428.89,0.1,Net Banking
+ORD100343,2025-01-16,Aarav Verma,South,Electronics,Webcam HD,5,459.13,0.0,Net Banking
+ORD100948,2025-07-06,Pooja Nair,South,Electronics,Bluetooth Speaker,4,305.99,0.05,Net Banking
+ORD100748,2024-09-24,Arjun Verma,West,Furniture,Monitor Arm,1,476.53,0.0,Net Banking
+ORD100174,2025-07-13,Ananya Patel,North,Furniture,Standing Desk,8,490.51,0.05,Net Banking
+ORD100734,2024-05-29,Pooja Kapoor,South,Furniture,Monitor Arm,6,179.34,0.2,Cash on Delivery
+ORD100378,2025-04-29,Nikhil Iyer,North,Electronics,Bluetooth Speaker,5,204.47,0.1,Net Banking
+ORD101039,2024-05-03,Priya Verma,Central,Electronics,Webcam HD,4,100.5,0.05,Cash on Delivery
+ORD100739,2024-04-28,Divya Gupta,Central,Groceries,Protein Bars,8,302.19,0.0,Net Banking
+ORD101075,2024-06-13,Vikram Reddy,Central,Electronics,Laptop Stand,7,341.55,0.05,Cash on Delivery
+ORD100053,2025-12-13,Divya Patel,West,Groceries,Coffee Beans 1kg,4,459.15,0.0,Cash on Delivery
+ORD100019,2024-05-03,Vikram Gupta,Central,Office Supplies,Desk Organizer,2,172.35,0.1,Debit Card
+ORD100222,2025-05-22,Nikhil Verma,East,Office Supplies,Sticky Notes,1,9.59,0.1,UPI
+ORD101054,2024-03-12,Neha Verma,Central,Office Supplies,Notebook Pack,7,126.4,0.15,Debit Card
+ORD101141,2025-09-24,Rohan Verma,East,Electronics,Wireless Mouse,4,28.68,0.0,Net Banking
+ORD100096,2024-12-14,,West,Furniture,Office Chair,5,364.4,0.2,Debit Card
+ORD100262,2024-03-17,Sara Sharma,South,Furniture,Monitor Arm,1,93.78,0.2,Cash on Delivery
+ORD101303,2025-05-29,Rahul Iyer,North,Electronics,Webcam HD,5,21.6,0.0,UPI
+ORD100180,2025-03-12,Karan Kapoor,West,Office Supplies,Ballpoint Pens,6,226.33,0.15,UPI
+ORD100717,2025-01-19,Arjun Patel,Central,Electronics,Wireless Mouse,7,321.21,0.0,Net Banking
+ORD101430,2025-10-09,Vivaan Gupta,South,Electronics,Bluetooth Speaker,3,12.09,0.15,Net Banking
+ORD100185,2025-01-31,Nikhil Reddy,West,Electronics,USB-C Hub,5,353.5,0.0,Debit Card
+ORD100468,2025-01-13,Karan Iyer,West,Office Supplies,Notebook Pack,4,261.35,0.2,Net Banking
+ORD100904,2025-10-22,Karan Mehta,West,Furniture,Filing Cabinet,8,93.6,0.15,Net Banking
+ORD100072,2025-05-15,Isha Reddy,South,Office Supplies,Ballpoint Pens,8,226.85,0.0,Net Banking
+ORD101211,2025-07-16,Karan Nair,  south  ,Office Supplies,Notebook Pack,8,63.41,0.1,UPI
+ORD100347,2025-07-17,Arjun Gupta,Central,Groceries,Coffee Beans 1kg,2,143.49,0.0,Debit Card
+ORD100030,2025-08-15,Anjali Mehta,East,Electronics,Webcam HD,2,212.52,0.1,UPI
+ORD100797,2025-05-25,Priya Iyer,East,Electronics,USB-C Hub,1,145.72,0.15,Cash on Delivery
+ORD100158,2025-01-05,Sara Singh,South,Electronics,USB-C Hub,5,94.23,0.0,Debit Card
+ORD100933,2024-06-14,Vikram Iyer,South,Office Supplies,Notebook Pack,2,92.73,0.0,Credit Card
+ORD100659,2024-08-11,Isha Kapoor,East,Electronics,Laptop Stand,5,56.13,0.0,Net Banking
+ORD101335,2024-11-06,Divya Mehta,East,Groceries,Protein Bars,2,303.8,0.2,Net Banking
+ORD100395,2025-04-27,Isha Gupta,East,Office Supplies,Sticky Notes,3,473.73,0.0,Debit Card
+ORD100989,2025-08-17,Rohan Singh,West,Electronics,USB-C Hub,8,329.04,0.1,UPI
+ORD101202,2025-10-02,Meera Verma,North,Groceries,Coffee Beans 1kg,2,67.96,0.1,Net Banking
+ORD101066,2025-05-21,Sara Patel,South,Groceries,Almonds Pack,7,302.86,0.15,Net Banking
+ORD100403,2025-05-30,Meera Singh,Central,Furniture,Standing Desk,2,412.8,0.0,Cash on Delivery
+ORD100990,2024-05-28,Karan Kapoor,North,Office Supplies,Desk Organizer,4,368.98,0.0,Debit Card
+ORD100678,2024-08-12,Rohan Singh,West,Groceries,Green Tea Box,5,31.27,0.0,Debit Card
+ORD100823,2024-07-23,Rahul Reddy,South,Office Supplies,Whiteboard,8,54.95,0.05,Debit Card
+ORD100964,2024-01-02,Meera Iyer,South,Electronics,Wireless Mouse,7,264.86,0.15,Debit Card
+ORD100836,2025-10-29,Isha Sharma,Central,Groceries,Protein Bars,7,388.82,0.0,UPI
+ORD101034,2025-03-12,Priya Reddy,East,Groceries,Coffee Beans 1kg,7,323.72,0.0,UPI
+ORD101254,2024-04-08,Vikram Mehta,South,Office Supplies,Whiteboard,3,18.54,0.0,Credit Card
+ORD100940,2025-02-15,Isha Reddy,Central,Furniture,Office Chair,7,110.32,0.0,UPI
+ORD101055,2024-01-13,Aarav Sharma,South,Electronics,Laptop Stand,7,15.25,0.2,Debit Card
+ORD100692,2025-04-10,Karan Singh,North,Groceries,Green Tea Box,7,96.55,0.2,Credit Card
+ORD101220,2025-08-25,Nikhil Iyer,West,Groceries,Protein Bars,2,34.56,0.2,Credit Card
+ORD100335,2024-08-25,Anjali Verma,Central,Groceries,Protein Bars,8,487.4,0.0,Debit Card
+ORD100874,2025-01-06,Nikhil Gupta,North,Electronics,USB-C Hub,8,452.73,0.15,Debit Card
+ORD100806,2025-03-23,Meera Gupta,Central,Electronics,Laptop Stand,-1,78.56,0.0,Net Banking
+ORD100008,2025-10-12,Aditya Mehta,South,Office Supplies,Whiteboard,4,85.88,0.05,UPI
+ORD100518,2025-06-20,,South,Electronics,Wireless Mouse,5,310.96,0.0,Debit Card
+ORD100198,2024-11-16,Pooja Mehta,North,Furniture,Bookshelf,7,69.73,0.0,UPI
+ORD100297,2025-08-09,Vivaan Singh,Central,Electronics,USB-C Hub,6,273.31,0.2,Debit Card
+ORD101105,2025-09-07,Anjali Sharma,East,Groceries,Green Tea Box,6,108.83,0.0,UPI
+ORD101347,2024-10-06,Rohan Reddy,East,Electronics,Laptop Stand,4,14.27,0.05,Net Banking
+ORD100123,2024-04-22,Diya Kapoor,East,Electronics,Bluetooth Speaker,1,182.33,0.2,Credit Card
+ORD100379,2024-12-05,Aarav Nair,East,Office Supplies,Notebook Pack,8,460.81,0.0,UPI
+ORD101063,2025-10-01,Karan Reddy,North,Furniture,Bookshelf,2,139.19,0.05,Credit Card
+ORD101324,2025-08-04,Isha Reddy,South,Office Supplies,Desk Organizer,6,395.34,0.0,UPI
+ORD101110,2024-04-12,Arjun Gupta,South,Groceries,Olive Oil 1L,1,335.52,0.2,Net Banking
+ORD100163,2024-10-15,Kabir Kapoor,South,Groceries,Olive Oil 1L,7,483.3,0.2,UPI
+ORD100125,2025-01-05,Pooja Reddy,West,Electronics,Laptop Stand,4,472.98,0.0,Credit Card
+ORD100552,2025-07-12,Divya Iyer,North,Office Supplies,Ballpoint Pens,5,183.2,0.05,Credit Card
+ORD100005,2024-09-27,Isha Mehta,East,Electronics,Laptop Stand,2,486.69,0.05,Cash on Delivery
+ORD100916,2025-11-05,Neha Mehta,  east  ,Furniture,Bookshelf,4,212.48,0.15,UPI
+ORD100959,2024-09-05,Aarav Patel,East,Groceries,Coffee Beans 1kg,6,317.32,0.15,Cash on Delivery
+ORD101290,2024-01-11,Aarav Reddy,South,Furniture,Filing Cabinet,3,79.42,0.0,Debit Card
+ORD100612,2024-04-04,Rohan Gupta,East,Groceries,Olive Oil 1L,1,400.52,0.1,Net Banking
+ORD100288,2024-10-12,Ananya Nair,East,Electronics,Webcam HD,2,400.75,0.1,Debit Card
+ORD100957,2025-10-18,Neha Kapoor,South,Electronics,Laptop Stand,1,496.27,0.0,Debit Card
+ORD100742,2025-02-14,Sara Gupta,Central,Electronics,Bluetooth Speaker,2,185.04,0.0,Net Banking
+ORD101310,2024-11-14,Anjali Verma,  central  ,Furniture,Monitor Arm,6,63.27,0.05,Net Banking
+ORD100909,2025-01-26,Isha Nair,North,Electronics,Bluetooth Speaker,8,120.73,0.15,UPI
+ORD100507,2025-01-08,Anjali Gupta,North,Groceries,Protein Bars,8,94.05,0.0,UPI
+ORD100357,2025-10-26,Ananya Iyer,East,Furniture,Standing Desk,6,115.5,0.1,UPI
+ORD100353,2024-07-11,Isha Sharma,South,Groceries,Olive Oil 1L,5,91.9,0.0,Cash on Delivery
+ORD100845,2025-03-02,Rohan Mehta,Central,Office Supplies,Desk Organizer,3,244.96,0.05,Credit Card
+ORD100837,2025-02-03,Vikram Reddy,  central  ,Office Supplies,Whiteboard,5,110.8,0.1,UPI
+ORD100947,2025-06-17,Sara Nair,South,Groceries,Protein Bars,1,118.36,0.15,Debit Card
+ORD100668,2025-08-16,Aarav Singh,Central,Office Supplies,Notebook Pack,1,369.05,0.05,Credit Card
+ORD100887,2025-10-28,Priya Sharma,Central,Electronics,Laptop Stand,6,295.97,0.0,Credit Card
+ORD101262,2025-12-28,Neha Kapoor,South,Office Supplies,Notebook Pack,7,345.55,0.1,UPI
+ORD100334,2024-11-10,Rohan Reddy,North,Electronics,Bluetooth Speaker,4,212.81,0.0,Credit Card
+ORD100154,2025-01-31,Sara Verma,East,Groceries,Protein Bars,1,395.67,0.15,Credit Card
+ORD100788,2025-04-27,Nikhil Iyer,East,Furniture,Monitor Arm,1,7.65,0.1,Net Banking
+ORD100502,2025-09-27,Pooja Reddy,West,Furniture,Filing Cabinet,5,247.95,0.2,Debit Card
+ORD100722,2025-01-17,Sara Singh,South,Electronics,USB-C Hub,3,292.92,0.0,UPI
+ORD100374,2025-03-09,Rohan Kapoor,East,Electronics,Laptop Stand,4,498.65,0.15,UPI
+ORD100591,2024-11-27,Karan Verma,Central,Office Supplies,Notebook Pack,2,61.51,0.05,Net Banking
+ORD100313,2024-01-09,Rohan Iyer,Central,Office Supplies,Ballpoint Pens,6,362.6,0.15,Net Banking
+ORD100043,2025-11-26,Ananya Kapoor,East,Furniture,Office Chair,2,439.13,0.0,Credit Card
+ORD101185,2025-02-18,Aditya Kapoor,West,Groceries,Green Tea Box,4,421.65,0.1,Cash on Delivery
+ORD100646,2024-02-03,Rohan Singh,West,Furniture,Office Chair,3,299.79,0.2,Net Banking
+ORD101285,2025-03-11,Pooja Verma,South,Electronics,Laptop Stand,3,379.66,0.0,Debit Card
+ORD100972,2025-12-16,Pooja Reddy,South,Groceries,Green Tea Box,1,302.95,0.2,UPI
+ORD101458,2025-09-28,Rahul Nair,East,Groceries,Green Tea Box,7,105.06,0.2,Net Banking
+ORD100523,2024-10-20,Rahul Reddy,North,Groceries,Olive Oil 1L,1,345.45,0.05,Net Banking
+ORD101225,2025-01-25,Aditya Verma,South,Groceries,Green Tea Box,3,454.32,0.0,Cash on Delivery
+ORD100763,2025-03-20,Diya Patel,East,Electronics,Webcam HD,4,185.32,0.0,Net Banking
+ORD101500,2024-02-12,Rohan Nair,East,Office Supplies,Desk Organizer,6,26.66,0.0,Debit Card
+ORD101129,2025-05-14,Sara Kapoor,North,Groceries,Almonds Pack,7,300.18,0.0,Cash on Delivery
+ORD100705,2025-12-29,Rohan Patel,South,Furniture,Standing Desk,3,420.47,0.15,Credit Card
+ORD101260,2025-01-20,Ananya Singh,East,Office Supplies,Desk Organizer,5,237.71,0.05,Debit Card
+ORD101356,2024-08-10,Priya Nair,Central,Groceries,Olive Oil 1L,5,163.1,0.0,Cash on Delivery
+ORD100945,2024-09-06,Kabir Patel,West,Electronics,Wireless Mouse,3,190.39,0.0,Debit Card
+ORD100169,2025-03-09,Diya Iyer,Central,Electronics,USB-C Hub,4,154.07,0.0,Net Banking
+ORD100361,2024-09-19,Arjun Patel,West,Electronics,Wireless Mouse,1,196.04,0.15,Net Banking
+ORD101019,2024-04-25,Meera Reddy,South,Furniture,Standing Desk,2,148.58,0.05,Credit Card
+ORD101496,2024-06-11,Aditya Iyer,East,Groceries,Coffee Beans 1kg,3,270.79,0.0,Cash on Delivery
+ORD100744,2024-12-30,Aditya Patel,West,Groceries,Olive Oil 1L,7,493.82,0.1,Credit Card
+ORD100273,2025-10-02,Meera Sharma,West,Groceries,Olive Oil 1L,4,231.64,0.0,UPI
+ORD100520,2025-05-02,Vikram Patel,Central,Groceries,Olive Oil 1L,5,276.53,0.0,Cash on Delivery
+ORD100815,2024-03-29,Priya Patel,South,Furniture,Filing Cabinet,3,239.62,0.0,Net Banking
+ORD100819,2025-06-24,Arjun Singh,North,Electronics,Laptop Stand,6,278.86,0.0,Net Banking
+ORD100735,2025-08-06,Kabir Reddy,South,Electronics,Wireless Mouse,1,266.78,0.15,Cash on Delivery
+ORD101422,2025-10-02,Sara Sharma,West,Furniture,Bookshelf,6,,0.0,Credit Card
+ORD101326,2024-03-23,Diya Patel,Central,Office Supplies,Desk Organizer,4,221.09,0.15,UPI
+ORD101173,2025-08-22,Diya Iyer,West,Electronics,USB-C Hub,4,20.91,0.0,Net Banking
+ORD101498,2025-05-24,Priya Gupta,North,Office Supplies,Desk Organizer,1,237.13,0.0,Net Banking
+ORD101122,2024-01-23,Kabir Iyer,West,Groceries,Coffee Beans 1kg,8,479.81,0.0,UPI
+ORD100129,2025-04-07,Arjun Verma,East,Office Supplies,Ballpoint Pens,6,414.57,0.05,Net Banking
+ORD100999,2024-09-19,Vikram Patel,West,Electronics,Wireless Mouse,2,255.54,0.0,Credit Card
+ORD101427,2025-06-11,Priya Iyer,East,Office Supplies,Desk Organizer,4,331.31,0.15,Cash on Delivery
+ORD100545,2025-12-19,Isha Sharma,South,Furniture,Office Chair,6,114.26,0.15,Net Banking
+ORD100380,2024-10-14,Divya Nair,East,Groceries,Coffee Beans 1kg,4,71.52,0.15,Net Banking
+ORD100204,2024-02-22,Divya Mehta,East,Office Supplies,Sticky Notes,5,41.4,0.1,Cash on Delivery
+ORD100344,2024-05-11,,Central,Electronics,USB-C Hub,2,26.13,0.05,Net Banking
+ORD101293,2025-08-21,Vikram Gupta,North,Furniture,Bookshelf,7,467.48,0.1,Cash on Delivery
+ORD101407,2024-06-04,Divya Mehta,West,Furniture,Office Chair,3,325.68,0.0,Credit Card
+ORD100519,2024-10-17,Aarav Sharma,East,Groceries,Green Tea Box,3,265.74,0.0,UPI
+ORD100489,2025-09-06,Isha Kapoor,North,Groceries,Coffee Beans 1kg,2,135.23,0.0,Net Banking
+ORD101489,2024-11-06,Arjun Mehta,Central,Groceries,Green Tea Box,6,482.27,0.0,Debit Card
+ORD100918,2025-08-10,Vikram Iyer,South,Groceries,Almonds Pack,4,474.6,0.0,Net Banking
+ORD100233,2025-04-18,Kabir Kapoor,North,Furniture,Office Chair,7,130.96,0.0,Credit Card
+ORD100795,2024-04-25,Meera Patel,South,Office Supplies,Notebook Pack,6,51.32,0.2,Cash on Delivery
+ORD101419,2024-06-30,Vivaan Sharma,Central,Electronics,Bluetooth Speaker,3,74.41,0.05,Debit Card
+ORD101123,2025-10-10,Anjali Kapoor,North,Groceries,Green Tea Box,3,152.88,0.0,Credit Card
+ORD100515,2025-10-22,Anjali Mehta,West,Groceries,Protein Bars,8,391.58,0.0,Net Banking
+ORD101499,2024-07-07,Divya Patel,West,Electronics,Wireless Mouse,4,220.79,0.0,Cash on Delivery
+ORD100512,2025-08-13,Rahul Singh,North,Office Supplies,Sticky Notes,6,165.92,0.1,Net Banking
+ORD100113,2024-12-12,Neha Mehta,East,Electronics,Laptop Stand,2,74.67,0.0,Credit Card
+ORD101450,2025-08-28,Rahul Mehta,Central,Groceries,Protein Bars,2,498.66,0.2,Cash on Delivery
+ORD100218,2025-08-23,Diya Gupta,North,Office Supplies,Desk Organizer,1,336.57,0.1,Credit Card
+ORD100500,2024-08-28,Diya Kapoor,East,Office Supplies,Sticky Notes,4,118.46,0.2,Debit Card
+ORD101483,2024-04-29,Rahul Gupta,West,Electronics,USB-C Hub,4,186.02,0.0,Credit Card
+ORD100935,2025-03-28,Divya Sharma,  central  ,Electronics,Webcam HD,2,198.36,0.0,Credit Card
+ORD100226,2024-11-27,Aditya Nair,East,Office Supplies,Notebook Pack,5,194.87,0.05,Cash on Delivery
+ORD101043,2025-12-11,Pooja Verma,South,Office Supplies,Ballpoint Pens,8,,0.2,Net Banking
+ORD101292,2024-03-09,Kabir Reddy,East,Furniture,Monitor Arm,4,175.75,0.0,Net Banking
+ORD101402,2025-04-16,Aditya Reddy,Central,Furniture,Bookshelf,4,340.45,0.15,Credit Card
+ORD100398,2024-02-25,Divya Patel,East,Office Supplies,Desk Organizer,4,174.62,0.1,Debit Card
+ORD100541,2024-01-01,Nikhil Gupta,East,Groceries,Green Tea Box,1,311.77,0.0,Credit Card
+ORD100329,2024-11-25,Anjali Nair,North,Office Supplies,Ballpoint Pens,6,139.27,0.0,Cash on Delivery
+ORD100796,2024-10-06,Ananya Iyer,North,Office Supplies,Whiteboard,1,265.38,0.1,Debit Card
+ORD100849,2024-02-19,Rahul Sharma,North,Furniture,Bookshelf,4,95.62,0.15,Cash on Delivery
+ORD101460,2024-10-30,Nikhil Iyer,East,Office Supplies,Ballpoint Pens,2,103.32,0.0,Debit Card
+ORD100094,2025-10-25,,West,Office Supplies,Ballpoint Pens,5,256.89,0.0,Debit Card
+ORD100214,2024-09-09,Meera Gupta,West,Furniture,Monitor Arm,5,116.31,0.0,UPI
+ORD100771,2025-02-22,Priya Nair,Central,Furniture,Monitor Arm,1,247.73,0.0,Net Banking
+ORD100338,2024-06-08,Priya Mehta,East,Electronics,Bluetooth Speaker,8,235.7,0.05,Debit Card
+ORD100804,2025-03-09,Arjun Verma,North,Electronics,Laptop Stand,6,308.86,0.05,Cash on Delivery
+ORD100213,2024-06-26,Aditya Kapoor,West,Groceries,Olive Oil 1L,6,275.41,0.15,Debit Card
+ORD100619,2024-02-21,Priya Iyer,North,Office Supplies,Notebook Pack,8,452.13,0.0,Credit Card
+ORD101140,2025-07-23,Divya Singh,North,Furniture,Filing Cabinet,1,199.7,0.15,UPI
+ORD101183,2025-05-11,Priya Mehta,North,Office Supplies,Notebook Pack,2,5.02,0.1,Debit Card
+ORD101169,2024-01-09,Meera Kapoor,Central,Groceries,Green Tea Box,8,342.06,0.1,Debit Card
+ORD101137,2024-06-24,Meera Sharma,Central,Furniture,Monitor Arm,7,122.03,0.0,Credit Card
+ORD100037,2025-07-18,Rohan Mehta,North,Groceries,Olive Oil 1L,1,60.38,0.15,UPI
+ORD100106,2025-04-15,Vikram Patel,North,Furniture,Office Chair,8,451.1,0.15,Net Banking
+ORD100363,2024-03-16,Isha Nair,South,Electronics,USB-C Hub,1,162.76,0.0,Net Banking
+ORD100851,2025-05-01,Divya Patel,East,Office Supplies,Desk Organizer,8,382.03,0.15,Credit Card
+ORD100757,2024-04-10,Sara Patel,Central,Groceries,Coffee Beans 1kg,4,171.3,0.1,UPI
+ORD100759,2024-09-28,Isha Kapoor,North,Electronics,USB-C Hub,7,403.28,0.1,Cash on Delivery
+ORD100366,2024-09-28,Anjali Mehta,West,Furniture,Bookshelf,4,52.48,0.05,Debit Card
+ORD100857,2024-01-25,Vikram Patel,East,Furniture,Filing Cabinet,5,50.06,0.0,Debit Card
+ORD101270,2024-05-12,Sara Nair,Central,Electronics,Wireless Mouse,7,49.68,0.15,Credit Card
+ORD101433,2024-07-09,Priya Nair,Central,Furniture,Bookshelf,8,387.14,0.05,UPI
+ORD100566,2024-03-28,Meera Sharma,East,Electronics,Wireless Mouse,4,474.73,0.0,Credit Card
+ORD100250,2024-07-27,Diya Patel,North,Furniture,Bookshelf,7,27.63,0.2,UPI
+ORD100477,2025-02-24,Aditya Patel,East,Office Supplies,Whiteboard,3,313.49,0.1,Net Banking
+ORD101189,2024-05-03,Nikhil Singh,North,Groceries,Coffee Beans 1kg,5,21.87,0.15,UPI
+ORD100782,2025-02-14,Ananya Kapoor,North,Groceries,Olive Oil 1L,5,78.88,0.0,Credit Card
+ORD100455,2025-07-22,Neha Mehta,Central,Office Supplies,Notebook Pack,1,7.49,0.1,Credit Card
+ORD101370,2024-12-04,Rohan Patel,Central,Groceries,Protein Bars,5,299.24,0.2,UPI
+ORD101201,2025-08-07,Rohan Verma,West,Groceries,Olive Oil 1L,6,181.46,0.1,Net Banking
+ORD101108,2025-07-20,Arjun Reddy,Central,Office Supplies,Whiteboard,7,193.87,0.2,Credit Card
+ORD100231,2024-07-26,Priya Gupta,Central,Office Supplies,Desk Organizer,6,427.97,0.05,Net Banking
+ORD100653,2025-06-21,Aditya Gupta,North,Electronics,Laptop Stand,6,113.61,0.0,Credit Card
+ORD100071,2024-09-21,Kabir Verma,South,Furniture,Bookshelf,5,280.12,0.1,Net Banking
+ORD100611,2025-01-15,Priya Nair,North,Groceries,Protein Bars,4,264.92,0.0,Debit Card
+ORD101175,2024-09-13,Meera Kapoor,West,Office Supplies,Ballpoint Pens,4,154.03,0.0,Cash on Delivery
+ORD101456,2024-06-13,Karan Patel,West,Office Supplies,Whiteboard,6,371.65,0.2,Credit Card
+ORD101411,2025-07-07,Kabir Gupta,East,Furniture,Office Chair,6,435.93,0.0,Debit Card
+ORD101471,2025-12-22,,East,Office Supplies,Ballpoint Pens,4,332.59,0.0,Debit Card
+ORD100411,2024-10-29,Rahul Nair,South,Office Supplies,Notebook Pack,8,455.63,0.15,Credit Card
+ORD101397,2024-02-17,Anjali Iyer,North,Groceries,Almonds Pack,4,143.67,0.1,Credit Card
+ORD101152,2025-04-08,Karan Iyer,South,Furniture,Bookshelf,2,463.83,0.0,Debit Card
+ORD100339,2025-04-07,Ananya Reddy,Central,Furniture,Filing Cabinet,5,426.98,0.0,Credit Card
+ORD101026,2024-07-13,Sara Sharma,South,Furniture,Office Chair,3,200.3,0.15,Debit Card
+ORD100044,2024-04-21,Priya Iyer,Central,Groceries,Protein Bars,6,221.01,0.1,Debit Card
+ORD100540,2024-06-13,Aditya Mehta,East,Electronics,Webcam HD,3,227.45,0.2,Net Banking
+ORD100602,2025-07-30,Nikhil Gupta,East,Groceries,Olive Oil 1L,8,248.79,0.0,Debit Card
+ORD100966,2024-07-09,Aditya Iyer,West,Office Supplies,Notebook Pack,3,405.54,0.0,Cash on Delivery
+ORD101360,2025-09-26,Nikhil Gupta,South,Electronics,Webcam HD,7,473.02,0.0,Cash on Delivery
+ORD100172,2025-06-22,Karan Reddy,North,Electronics,Laptop Stand,8,26.55,0.05,UPI
+ORD100418,2025-09-17,Rohan Singh,West,Groceries,Protein Bars,1,431.98,0.2,Credit Card
+ORD100838,2025-10-12,Anjali Reddy,South,Office Supplies,Notebook Pack,1,445.71,0.1,UPI
+ORD101261,2024-07-22,Rahul Mehta,Central,Electronics,Webcam HD,4,6.58,0.0,Debit Card
+ORD100807,2024-10-29,Priya Mehta,West,Electronics,Webcam HD,2,459.06,0.1,Net Banking
+ORD100883,2025-09-06,Vivaan Sharma,West,Groceries,Coffee Beans 1kg,8,291.57,0.0,UPI
+ORD101413,2024-01-27,Neha Gupta,South,Groceries,Green Tea Box,7,29.36,0.05,Net Banking
+ORD100638,2025-07-13,Karan Verma,Central,Furniture,Office Chair,1,286.23,0.15,Net Banking
+ORD100424,2025-10-31,Vikram Sharma,North,Electronics,Wireless Mouse,7,209.11,0.1,Cash on Delivery
+ORD100728,2025-12-30,Rohan Sharma,West,Electronics,Laptop Stand,8,458.44,0.0,UPI
+ORD100968,2025-08-22,Aarav Sharma,East,Office Supplies,Ballpoint Pens,8,338.04,0.0,Credit Card
+ORD100377,2025-07-30,Neha Singh,Central,Electronics,USB-C Hub,6,439.56,0.0,Cash on Delivery
+ORD100525,2025-10-23,Diya Mehta,Central,Groceries,Almonds Pack,4,135.18,0.05,UPI
+ORD100439,2025-07-19,Divya Gupta,East,Electronics,Wireless Mouse,5,105.53,0.2,Cash on Delivery
+ORD101305,2025-04-29,Rohan Patel,South,Electronics,Wireless Mouse,6,19.27,0.15,Credit Card
+ORD100151,2025-01-28,Anjali Gupta,East,Groceries,Olive Oil 1L,1,227.62,0.2,Cash on Delivery
+ORD100071,2024-09-21,Kabir Verma,South,Furniture,Bookshelf,5,280.12,0.1,Net Banking
+ORD101375,2024-11-17,Pooja Singh,South,Furniture,Filing Cabinet,8,325.95,0.2,Net Banking
+ORD100982,2024-03-04,Rohan Mehta,Central,Office Supplies,Ballpoint Pens,7,163.22,0.0,Cash on Delivery
+ORD100955,2025-07-29,Kabir Patel,South,Groceries,Coffee Beans 1kg,6,72.64,0.05,Credit Card
+ORD101366,2025-09-13,Meera Iyer,North,Electronics,Laptop Stand,8,414.74,0.0,UPI
+ORD100144,2024-11-28,Isha Iyer,North,Office Supplies,Whiteboard,8,416.85,0.0,Debit Card
+ORD100718,2025-12-28,Vikram Singh,  north  ,Office Supplies,Desk Organizer,3,416.98,0.0,UPI
+ORD100527,2025-09-24,Rohan Sharma,Central,Groceries,Protein Bars,8,97.96,0.0,Credit Card
+ORD100584,2024-06-30,Divya Gupta,West,Groceries,Olive Oil 1L,8,345.49,0.2,Net Banking
+ORD100976,2024-02-02,Vikram Singh,South,Office Supplies,Ballpoint Pens,2,154.17,0.15,Net Banking
+ORD100567,2024-11-08,Vikram Gupta,South,Groceries,Almonds Pack,1,169.28,0.15,Cash on Delivery
+ORD101233,2024-04-25,Arjun Verma,West,Electronics,Bluetooth Speaker,4,166.27,0.0,UPI
+ORD100441,2024-05-02,Rohan Patel,Central,Groceries,Coffee Beans 1kg,7,143.16,0.0,UPI
+ORD101156,2025-08-12,Diya Kapoor,West,Furniture,Standing Desk,2,268.41,0.0,Net Banking
+ORD100175,2024-02-07,Sara Reddy,Central,Furniture,Standing Desk,1,396.6,0.0,Net Banking
+ORD101424,2024-01-16,Priya Singh,West,Furniture,Standing Desk,2,212.84,0.0,Net Banking
+ORD100124,2024-06-27,Priya Verma,West,Furniture,Office Chair,3,372.15,0.1,Net Banking
+ORD100139,2024-04-23,Vivaan Gupta,West,Furniture,Monitor Arm,8,265.83,0.0,Cash on Delivery
+ORD100880,2024-03-24,Kabir Patel,East,Electronics,Bluetooth Speaker,7,479.1,0.0,UPI
+ORD101076,2024-11-09,Pooja Iyer,South,Office Supplies,Ballpoint Pens,3,139.55,0.0,Debit Card
+ORD100733,2024-04-08,Ananya Nair,North,Electronics,Webcam HD,4,295.86,0.0,Credit Card
+ORD100625,2024-11-05,Vikram Patel,West,Groceries,Almonds Pack,7,123.09,0.0,Net Banking
+ORD100785,2024-07-03,Diya Kapoor,West,Groceries,Green Tea Box,1,148.65,0.0,Debit Card
+ORD100183,2024-02-03,Isha Kapoor,South,Office Supplies,Ballpoint Pens,6,189.15,0.2,Cash on Delivery
+ORD100618,2025-12-22,Nikhil Nair,Central,Furniture,Monitor Arm,4,89.78,0.0,Net Banking
+ORD100691,2024-09-01,Divya Kapoor,Central,Electronics,Wireless Mouse,8,336.17,0.0,Credit Card
+ORD101329,2025-11-21,Rahul Kapoor,North,Groceries,Olive Oil 1L,7,269.39,0.0,Debit Card
+ORD100241,2024-08-27,Pooja Gupta,West,Furniture,Monitor Arm,6,122.27,0.0,UPI
+ORD101255,2025-05-15,Arjun Singh,Central,Electronics,USB-C Hub,4,144.51,0.1,Debit Card
+ORD100459,2024-05-11,Sara Singh,West,Office Supplies,Notebook Pack,5,311.66,0.0,UPI
+ORD100682,2024-08-21,Diya Verma,West,Electronics,Bluetooth Speaker,7,435.59,0.05,Cash on Delivery
+ORD100466,2025-11-09,Divya Patel,South,Office Supplies,Whiteboard,3,379.82,0.0,Cash on Delivery
+ORD101188,2025-02-04,Rohan Sharma,East,Groceries,Coffee Beans 1kg,8,211.36,0.05,Net Banking
+ORD101192,2024-05-23,Rahul Iyer,West,Furniture,Bookshelf,7,38.76,0.2,Cash on Delivery
+ORD100146,2024-03-19,Karan Patel,South,Electronics,Webcam HD,4,453.43,0.0,Credit Card
+ORD100207,2024-06-01,Meera Kapoor,  east  ,Office Supplies,Sticky Notes,6,85.44,0.1,Cash on Delivery
+ORD101213,2024-02-16,Divya Patel,East,Electronics,Bluetooth Speaker,1,42.92,0.0,Credit Card
+ORD101344,2024-12-11,Aditya Verma,West,Furniture,Filing Cabinet,7,16.08,0.15,Credit Card
+ORD100325,2024-05-09,Aditya Mehta,North,Furniture,Office Chair,1,170.83,0.05,UPI
+ORD100658,2024-03-12,Priya Patel,Central,Groceries,Green Tea Box,7,93.33,0.05,Net Banking
+ORD101385,2025-04-12,Ananya Nair,Central,Electronics,USB-C Hub,7,302.67,0.05,Net Banking
+ORD100715,2025-03-30,Arjun Iyer,South,Groceries,Almonds Pack,5,86.08,0.15,Cash on Delivery
+ORD101400,2024-09-08,,South,Furniture,Monitor Arm,5,280.55,0.2,Credit Card
+ORD101436,2025-02-11,Karan Mehta,Central,Office Supplies,Desk Organizer,4,389.08,0.0,Debit Card
+ORD100080,2024-05-01,Divya Singh,East,Groceries,Olive Oil 1L,4,388.97,0.05,Cash on Delivery
+ORD101446,2024-09-18,Rahul Reddy,South,Electronics,Laptop Stand,7,294.56,0.15,Cash on Delivery
+ORD101368,2025-01-10,Rahul Gupta,East,Groceries,Protein Bars,3,456.92,0.2,Credit Card
+ORD100688,2024-12-01,Rohan Kapoor,North,Groceries,Olive Oil 1L,4,446.45,0.1,Net Banking
+ORD100167,2024-04-11,Rahul Patel,West,Furniture,Standing Desk,3,23.96,0.2,Net Banking
+ORD100230,2025-06-22,Priya Sharma,Central,Groceries,Olive Oil 1L,6,43.66,0.1,Cash on Delivery
+ORD101465,2025-02-26,Aditya Nair,East,Office Supplies,Whiteboard,7,315.49,0.05,Net Banking
+ORD101341,2024-02-07,Rohan Patel,West,Groceries,Green Tea Box,3,46.6,0.0,Net Banking
+ORD100741,2025-11-21,Isha Verma,South,Groceries,Coffee Beans 1kg,7,221.84,0.15,Net Banking
+ORD100101,2024-09-28,Sara Mehta,West,Furniture,Monitor Arm,7,326.67,0.2,UPI
+ORD100291,2024-03-27,Ananya Nair,South,Office Supplies,Sticky Notes,2,123.09,0.0,Cash on Delivery
+ORD100445,2024-08-11,Divya Gupta,Central,Groceries,Olive Oil 1L,1,61.79,0.0,Cash on Delivery
+ORD100879,2024-08-17,Aarav Iyer,South,Electronics,USB-C Hub,7,268.54,0.0,UPI
+ORD101078,2025-05-03,Karan Iyer,South,Furniture,Filing Cabinet,7,86.59,0.2,UPI
+ORD100740,2024-10-24,Rahul Nair,South,Groceries,Green Tea Box,2,447.9,0.2,Credit Card
+ORD100392,2024-09-03,Rohan Sharma,West,Electronics,Webcam HD,7,331.96,0.15,UPI
+ORD100087,2024-04-03,Aditya Kapoor,North,Office Supplies,Whiteboard,1,499.79,0.15,Debit Card
+ORD101383,2025-03-28,Kabir Kapoor,West,Electronics,Laptop Stand,4,54.44,0.1,UPI
+ORD100667,2024-02-13,Pooja Singh,Central,Groceries,Coffee Beans 1kg,4,404.52,0.15,Debit Card
+ORD101276,2025-08-25,Pooja Sharma,East,Groceries,Green Tea Box,5,393.46,0.05,UPI
+ORD101364,2025-04-17,Diya Singh,North,Electronics,Webcam HD,6,436.68,0.0,Credit Card
+ORD100476,2025-07-31,Rahul Singh,South,Electronics,USB-C Hub,2,112.21,0.1,Debit Card
+ORD101296,2024-01-03,Rohan Patel,South,Office Supplies,Desk Organizer,2,465.13,0.1,Net Banking
+ORD100045,2024-09-17,,East,Electronics,Laptop Stand,1,262.36,0.2,Net Banking
+ORD100789,2025-11-18,Ananya Mehta,West,Furniture,Standing Desk,1,292.34,0.0,UPI
+ORD101003,2025-09-29,Ananya Iyer,West,Groceries,Coffee Beans 1kg,5,134.03,0.15,Credit Card
+ORD101138,2025-04-17,Pooja Sharma,East,Furniture,Standing Desk,7,23.32,0.1,Credit Card
+ORD100025,2024-04-10,Diya Patel,West,Electronics,Webcam HD,1,484.65,0.2,Net Banking
+ORD101236,2024-08-04,Anjali Sharma,South,Furniture,Monitor Arm,6,470.27,0.05,Net Banking
+ORD100833,2024-11-18,Vivaan Patel,Central,Groceries,Green Tea Box,7,35.43,0.2,Credit Card
+ORD101194,2025-09-24,Ananya Gupta,North,Groceries,Coffee Beans 1kg,1,19.61,0.15,Credit Card
+ORD100592,2025-06-07,Sara Kapoor,South,Office Supplies,Ballpoint Pens,7,26.73,0.0,Debit Card
+ORD101492,2024-09-03,Neha Sharma,South,Furniture,Standing Desk,7,414.15,0.0,Debit Card
+ORD100974,2024-11-29,Isha Nair,West,Groceries,Green Tea Box,8,203.08,0.1,Net Banking
+ORD101057,2024-07-26,Sara Singh,South,Office Supplies,Ballpoint Pens,8,408.66,0.0,Debit Card
+ORD100110,2025-10-13,Rohan Verma,North,Office Supplies,Whiteboard,5,340.49,0.15,UPI
+ORD101161,2025-08-20,Aarav Kapoor,East,Electronics,Laptop Stand,4,238.92,0.0,Debit Card
+ORD100223,2025-04-10,Priya Nair,South,Groceries,Green Tea Box,8,140.05,0.2,Net Banking
+ORD101053,2025-08-06,Ananya Iyer,Central,Groceries,Green Tea Box,5,15.42,0.0,Debit Card
+ORD101312,2024-01-11,Diya Reddy,South,Office Supplies,Sticky Notes,8,,0.15,Debit Card
+ORD100723,2024-06-16,Vivaan Reddy,East,Electronics,USB-C Hub,6,212.66,0.0,Cash on Delivery
+ORD100056,2024-10-05,Neha Patel,South,Furniture,Bookshelf,2,73.5,0.0,Credit Card
+ORD101494,2025-02-23,Kabir Singh,East,Electronics,Laptop Stand,7,191.68,0.2,Cash on Delivery
+ORD100254,2025-11-15,Diya Verma,South,Electronics,Wireless Mouse,7,73.06,0.15,Credit Card
+ORD101439,2024-07-26,Arjun Singh,West,Furniture,Office Chair,7,151.77,0.1,UPI
+ORD101073,2024-06-02,Meera Singh,West,Office Supplies,Ballpoint Pens,3,375.31,0.15,UPI
+ORD100643,2025-11-03,Rohan Mehta,North,Furniture,Monitor Arm,1,146.97,0.0,UPI
+ORD100546,2024-03-22,Karan Sharma,Central,Groceries,Coffee Beans 1kg,6,281.22,0.05,UPI
+ORD100478,2025-09-02,Aarav Gupta,Central,Electronics,Bluetooth Speaker,7,195.8,0.0,Cash on Delivery
+ORD100950,2024-04-03,Arjun Singh,East,Office Supplies,Whiteboard,4,121.97,0.0,Debit Card
+ORD100844,2025-01-13,Rahul Iyer,West,Groceries,Olive Oil 1L,7,436.65,0.1,Net Banking
+ORD100064,2024-05-09,Karan Patel,Central,Groceries,Coffee Beans 1kg,4,235.19,0.0,Cash on Delivery
+ORD100414,2025-01-03,Vivaan Sharma,South,Furniture,Filing Cabinet,2,52.02,0.2,Debit Card
+ORD100385,2025-08-31,Karan Patel,East,Groceries,Green Tea Box,8,295.51,0.0,Credit Card
+ORD101431,2024-11-26,Kabir Kapoor,West,Electronics,Webcam HD,8,244.5,0.0,Net Banking
+ORD100975,2025-11-05,Rohan Mehta,Central,Electronics,Laptop Stand,5,305.55,0.15,Cash on Delivery
+ORD100885,2024-03-08,Neha Verma,Central,Electronics,Wireless Mouse,1,150.98,0.05,Net Banking
+ORD100452,2024-03-05,Meera Reddy,Central,Electronics,Wireless Mouse,6,464.38,0.0,Credit Card
+ORD101259,2024-11-21,Aarav Gupta,South,Office Supplies,Whiteboard,-1,474.85,0.15,Cash on Delivery
+ORD100657,2024-10-10,Aditya Reddy,South,Electronics,Laptop Stand,7,169.66,0.0,Net Banking
+ORD101328,2025-04-19,Rohan Iyer,East,Office Supplies,Notebook Pack,7,68.61,0.2,UPI
+ORD100370,2024-09-26,Anjali Sharma,South,Groceries,Almonds Pack,5,116.99,0.0,Credit Card
+ORD100690,2024-09-03,Kabir Patel,East,Electronics,Webcam HD,1,348.11,0.05,UPI
+ORD100220,2025-10-30,Sara Reddy,North,Groceries,Almonds Pack,4,379.18,0.0,Credit Card
+ORD101417,2025-02-13,Isha Iyer,East,Electronics,USB-C Hub,6,473.14,0.2,Debit Card
+ORD101321,2025-09-23,Diya Reddy,East,Groceries,Olive Oil 1L,7,366.82,0.05,Cash on Delivery
+ORD100022,2025-02-20,Arjun Iyer,West,Office Supplies,Notebook Pack,2,331.2,0.0,Credit Card
+ORD100761,2025-03-19,Pooja Singh,Central,Furniture,Standing Desk,7,204.14,0.1,Debit Card
+ORD100870,2025-11-19,Isha Verma,Central,Office Supplies,Ballpoint Pens,8,382.42,0.1,Credit Card
+ORD100421,2024-06-01,Rahul Patel,North,Electronics,Wireless Mouse,3,255.26,0.05,Net Banking
+ORD101350,2024-01-13,Rohan Singh,West,Furniture,Bookshelf,6,176.45,0.05,Debit Card
+ORD100200,2025-09-22,Sara Gupta,South,Groceries,Green Tea Box,3,407.67,0.1,Net Banking
+ORD100451,2025-10-07,,North,Groceries,Almonds Pack,6,13.36,0.15,Cash on Delivery
+ORD101162,2025-06-21,Sara Singh,West,Office Supplies,Desk Organizer,2,54.5,0.2,UPI
+ORD101020,not_a_date,Pooja Sharma,West,Groceries,Green Tea Box,5,464.91,0.15,Cash on Delivery
+ORD100912,2025-07-10,Neha Iyer,Central,Furniture,Office Chair,5,144.51,0.0,Credit Card
+ORD100697,2024-12-27,Karan Nair,West,Furniture,Monitor Arm,7,142.19,0.0,Net Banking
+ORD100812,2025-11-02,Nikhil Singh,East,Groceries,Almonds Pack,7,435.05,0.15,Cash on Delivery
+ORD101237,2025-10-26,Vikram Iyer,Central,Electronics,Wireless Mouse,4,284.87,0.1,Credit Card
+ORD101486,2025-02-17,Priya Nair,Central,Groceries,Almonds Pack,2,247.78,0.05,Net Banking
+ORD100911,2024-12-07,Aditya Gupta,Central,Office Supplies,Sticky Notes,5,154.84,0.2,Debit Card
+ORD101050,2024-06-29,Neha Reddy,Central,Furniture,Office Chair,2,362.69,0.15,Cash on Delivery
+ORD100506,2024-10-02,Arjun Gupta,West,Groceries,Olive Oil 1L,6,186.13,0.05,UPI
+ORD101372,2025-12-31,Rohan Patel,Central,Groceries,Protein Bars,3,373.15,0.15,UPI
+ORD101256,2025-04-09,Rahul Reddy,North,Furniture,Office Chair,2,224.98,0.05,Debit Card
+ORD100406,2025-01-10,Vivaan Kapoor,North,Electronics,Laptop Stand,5,386.77,0.1,Credit Card
+ORD100318,2025-08-05,Isha Sharma,Central,Groceries,Protein Bars,3,382.55,0.2,Credit Card
+ORD100184,2025-01-10,Aarav Patel,West,Groceries,Protein Bars,5,128.56,0.0,Cash on Delivery
+ORD101121,2024-09-25,Kabir Iyer,North,Office Supplies,Notebook Pack,2,249.65,0.0,Net Banking
+ORD101405,2025-08-11,Priya Mehta,South,Furniture,Office Chair,2,284.83,0.1,Cash on Delivery
+ORD100610,2024-07-10,Arjun Verma,West,Electronics,USB-C Hub,6,356.37,0.0,Debit Card
+ORD100627,2024-06-26,Divya Nair,Central,Electronics,Webcam HD,8,61.59,0.1,Credit Card
+ORD100486,2025-07-19,Aditya Reddy,Central,Groceries,Green Tea Box,6,281.75,0.05,UPI
+ORD100279,2025-04-04,Arjun Mehta,North,Groceries,Olive Oil 1L,7,269.51,0.2,UPI
+ORD100631,2025-03-21,Neha Patel,East,Furniture,Office Chair,1,307.69,0.1,Credit Card
+ORD100021,2024-10-12,Anjali Singh,South,Groceries,Green Tea Box,3,363.06,0.1,Net Banking
+ORD100171,2024-01-02,Isha Mehta,East,Furniture,Standing Desk,7,97.72,0.15,Credit Card
+ORD100902,2025-07-02,Aditya Patel,Central,Furniture,Standing Desk,6,127.35,0.15,Cash on Delivery
+ORD101040,2024-12-17,Vivaan Patel,South,Furniture,Filing Cabinet,4,269.11,0.0,Net Banking
+ORD100177,2024-10-06,Divya Iyer,East,Electronics,USB-C Hub,7,445.3,0.15,Debit Card
+ORD100328,2024-02-17,Vivaan Mehta,West,Groceries,Protein Bars,7,460.51,0.0,Debit Card
+ORD100707,2025-11-12,Ananya Mehta,East,Furniture,Bookshelf,3,189.59,0.1,Credit Card
+ORD101223,2024-01-29,Vivaan Verma,Central,Furniture,Monitor Arm,7,433.54,0.2,Net Banking
+ORD100471,2024-08-16,Nikhil Sharma,Central,Groceries,Protein Bars,6,246.0,0.05,Debit Card
+ORD101396,2025-09-24,Sara Singh,Central,Groceries,Protein Bars,2,41.84,0.0,Net Banking
+ORD100267,2024-09-09,Rohan Iyer,East,Electronics,Wireless Mouse,5,81.34,0.15,UPI
+ORD100616,2024-07-16,Priya Reddy,South,Furniture,Bookshelf,6,387.53,0.15,Debit Card
+ORD100131,2025-03-18,Vikram Mehta,East,Electronics,USB-C Hub,3,280.4,0.1,Credit Card
+ORD100866,2024-12-25,Vikram Kapoor,North,Office Supplies,Whiteboard,5,27.51,0.15,UPI
+ORD101459,2025-01-05,Anjali Reddy,Central,Office Supplies,Desk Organizer,6,12.88,0.0,Cash on Delivery
+ORD101363,2024-03-07,Nikhil Singh,South,Electronics,Bluetooth Speaker,8,232.3,0.15,Debit Card
+ORD101401,2025-12-17,Ananya Nair,West,Furniture,Bookshelf,8,374.9,0.0,Debit Card
+ORD100490,2025-02-14,Ananya Singh,West,Furniture,Monitor Arm,1,473.13,0.2,Credit Card
+ORD100607,2024-06-08,Arjun Sharma,Central,Groceries,Olive Oil 1L,6,233.92,0.2,UPI
+ORD101218,2024-07-27,Kabir Verma,East,Office Supplies,Whiteboard,4,155.94,0.1,Debit Card
+ORD101165,2025-11-06,Arjun Nair,South,Office Supplies,Sticky Notes,8,20.3,0.1,Credit Card
+ORD100417,2024-05-15,Rahul Kapoor,West,Electronics,Bluetooth Speaker,2,210.93,0.1,Debit Card
+ORD100153,2024-02-10,Ananya Nair,East,Office Supplies,Ballpoint Pens,8,264.41,0.1,UPI
+ORD100890,2025-06-09,Nikhil Nair,East,Furniture,Bookshelf,3,77.97,0.0,UPI
+ORD100850,2024-12-23,Anjali Singh,East,Electronics,Wireless Mouse,7,243.18,0.0,Net Banking
+ORD100280,2025-12-19,Ananya Kapoor,North,Electronics,Wireless Mouse,4,330.51,0.0,Cash on Delivery
+ORD101035,2024-12-25,Vivaan Sharma,North,Groceries,Green Tea Box,6,448.08,0.0,UPI
+ORD100270,2025-09-04,Isha Mehta,South,Furniture,Filing Cabinet,1,149.46,0.05,Cash on Delivery
+ORD100097,2025-04-02,Neha Singh,East,Groceries,Protein Bars,6,278.2,0.1,Debit Card
+ORD100211,2024-07-14,Kabir Iyer,Central,Electronics,Laptop Stand,-1,212.3,0.05,Cash on Delivery
+ORD100570,2025-11-01,Karan Verma,North,Electronics,Wireless Mouse,7,331.88,0.15,UPI
+ORD101466,2025-01-14,Rohan Nair,South,Furniture,Standing Desk,6,272.48,0.0,Cash on Delivery
+ORD100872,2025-12-14,Divya Sharma,  south  ,Electronics,Wireless Mouse,8,188.39,0.0,Credit Card
+ORD100533,2024-06-11,Meera Gupta,East,Electronics,Webcam HD,2,130.39,0.15,Credit Card
+ORD101463,2025-12-12,Kabir Patel,North,Office Supplies,Desk Organizer,4,222.98,0.2,UPI
+ORD101357,2025-06-29,Meera Singh,South,Groceries,Green Tea Box,7,249.94,0.05,Debit Card
+ORD101100,2024-07-07,Meera Patel,South,Electronics,Wireless Mouse,7,174.3,0.2,UPI
+ORD100713,2024-07-18,Neha Patel,West,Groceries,Protein Bars,1,454.68,0.0,UPI
+ORD100078,2024-10-18,Aditya Singh,North,Groceries,Almonds Pack,8,173.65,0.0,Credit Card
+ORD100264,2025-01-28,Diya Verma,East,Office Supplies,Notebook Pack,6,31.58,0.05,Cash on Delivery
+ORD100889,2025-03-31,Rohan Reddy,Central,Office Supplies,Desk Organizer,3,399.53,0.0,Net Banking
+ORD100150,2025-04-07,Isha Kapoor,Central,Electronics,Wireless Mouse,6,416.69,0.0,Cash on Delivery
+ORD100470,2025-08-06,Isha Mehta,East,Office Supplies,Ballpoint Pens,7,185.82,0.15,Net Banking
+ORD100565,2025-09-23,Diya Gupta,East,Groceries,Olive Oil 1L,3,223.03,0.2,Debit Card
+ORD100462,2025-04-01,Nikhil Verma,East,Furniture,Bookshelf,8,278.08,0.0,Debit Card
+ORD101278,2024-04-05,Vikram Mehta,South,Office Supplies,Ballpoint Pens,5,244.26,0.15,Net Banking
+ORD100897,2024-07-21,Ananya Nair,Central,Furniture,Standing Desk,4,443.26,0.15,Debit Card
+ORD101394,2025-10-23,Kabir Gupta,East,Office Supplies,Ballpoint Pens,5,14.64,0.15,UPI
+ORD101346,2025-03-23,Nikhil Iyer,South,Furniture,Standing Desk,5,253.27,0.0,UPI
+ORD100696,2024-05-21,Anjali Gupta,South,Furniture,Standing Desk,2,326.27,0.15,UPI
+ORD101176,2024-07-06,Sara Mehta,East,Groceries,Almonds Pack,2,73.61,0.05,Net Banking
+ORD100929,2025-05-20,Priya Mehta,East,Groceries,Olive Oil 1L,2,497.68,0.0,Net Banking
+ORD101327,2024-01-06,Neha Gupta,West,Groceries,Green Tea Box,6,54.46,0.1,Net Banking
+ORD101215,2025-11-03,Rahul Nair,South,Electronics,Wireless Mouse,5,469.49,0.0,Net Banking
+ORD100587,2025-02-09,,East,Electronics,Webcam HD,7,260.48,0.15,Net Banking
+ORD101373,2025-01-28,Meera Patel,Central,Furniture,Standing Desk,1,426.2,0.1,Credit Card
+ORD100244,2025-07-04,Rohan Singh,North,Groceries,Green Tea Box,4,153.86,0.15,Cash on Delivery
+ORD101112,2024-01-08,Aditya Reddy,  west  ,Furniture,Standing Desk,5,137.47,0.15,Debit Card
+ORD100752,2025-09-23,Vivaan Patel,East,Furniture,Bookshelf,6,35.4,0.1,UPI
+ORD101448,2025-10-15,Pooja Nair,West,Electronics,USB-C Hub,5,452.84,0.15,UPI
+ORD101313,2024-11-13,Anjali Nair,West,Electronics,Laptop Stand,5,93.11,0.0,Debit Card
+ORD100649,2025-04-30,Divya Iyer,East,Furniture,Standing Desk,7,10.87,0.2,Cash on Delivery
+ORD101191,2024-12-23,Karan Kapoor,East,Groceries,Olive Oil 1L,2,91.38,0.0,Net Banking
+ORD100596,2024-09-07,Vivaan Nair,North,Furniture,Monitor Arm,4,29.21,0.0,Debit Card
+ORD100314,2024-08-10,Neha Nair,West,Electronics,Wireless Mouse,3,377.46,0.1,UPI
+ORD100934,2025-11-18,Kabir Sharma,Central,Electronics,USB-C Hub,3,223.13,0.0,Debit Card
+ORD100156,2025-08-19,Neha Patel,Central,Office Supplies,Sticky Notes,5,484.01,0.15,Credit Card
+ORD101381,2024-03-06,Diya Kapoor,Central,Office Supplies,Whiteboard,5,35.13,0.0,Net Banking
+ORD101406,2024-03-30,Arjun Reddy,West,Groceries,Olive Oil 1L,4,377.19,0.2,Net Banking
+ORD101304,2024-10-07,Nikhil Singh,  west  ,Electronics,Webcam HD,1,432.28,0.05,Debit Card
+ORD101151,2024-04-19,Aditya Sharma,West,Electronics,Bluetooth Speaker,1,447.58,0.0,Cash on Delivery
+ORD101000,2024-09-11,Rohan Kapoor,West,Furniture,Office Chair,5,331.28,0.05,UPI
+ORD101047,2025-06-30,Rohan Reddy,  north  ,Office Supplies,Sticky Notes,1,321.61,0.0,Debit Card
+ORD101307,2024-07-17,Anjali Nair,Central,Electronics,USB-C Hub,6,449.38,0.0,Credit Card
+ORD101392,2024-08-22,Sara Nair,East,Furniture,Filing Cabinet,5,188.54,0.0,Net Banking
+ORD100026,2025-05-07,Neha Reddy,West,Office Supplies,Ballpoint Pens,1,86.5,0.0,UPI
+ORD100197,2025-12-06,Kabir Nair,Central,Electronics,Bluetooth Speaker,8,210.73,0.05,Debit Card
+ORD101089,2025-08-13,Divya Reddy,West,Furniture,Bookshelf,2,40.21,0.15,UPI
+ORD100016,2024-09-02,Isha Mehta,South,Electronics,Bluetooth Speaker,2,47.4,0.05,Debit Card
+ORD101322,2024-12-11,Pooja Verma,West,Groceries,Almonds Pack,5,24.86,0.0,Net Banking
+ORD100884,2025-12-11,Vivaan Reddy,Central,Electronics,Bluetooth Speaker,1,459.96,0.05,Net Banking
+ORD100622,2024-05-27,Sara Nair,West,Furniture,Bookshelf,7,95.76,0.15,Net Banking
+ORD101361,2025-10-02,Neha Mehta,  central  ,Groceries,Coffee Beans 1kg,6,16.25,0.1,Debit Card
+ORD101051,2024-07-30,Neha Patel,West,Groceries,Green Tea Box,6,138.05,0.1,Debit Card
+ORD101068,2025-03-07,Aarav Nair,Central,Office Supplies,Notebook Pack,4,184.05,0.0,Net Banking
+ORD100498,2024-12-27,Sara Verma,Central,Electronics,USB-C Hub,4,147.21,0.05,Debit Card
+ORD100793,2024-07-12,Aditya Patel,West,Office Supplies,Notebook Pack,4,95.65,0.05,Net Banking
+ORD100965,2025-01-18,Priya Singh,Central,Office Supplies,Desk Organizer,4,245.8,0.1,Debit Card
+ORD100516,2024-06-20,Aditya Verma,South,Office Supplies,Notebook Pack,3,365.25,0.15,Debit Card
+ORD101481,2025-07-04,Ananya Kapoor,Central,Electronics,USB-C Hub,5,58.35,0.15,Debit Card
+ORD101412,2025-03-10,Rohan Singh,North,Furniture,Standing Desk,4,387.31,0.0,Net Banking
+ORD101096,2024-08-05,Rohan Singh,South,Groceries,Coffee Beans 1kg,5,230.02,0.1,Debit Card
+ORD100543,2025-10-18,Vivaan Patel,South,Furniture,Office Chair,2,263.98,0.0,Credit Card
+ORD100457,2024-08-14,Anjali Sharma,Central,Furniture,Standing Desk,2,94.77,0.2,Net Banking
+ORD100634,2024-07-11,Rohan Patel,North,Groceries,Protein Bars,7,81.36,0.2,Credit Card
+ORD100432,2024-11-25,Meera Singh,South,Groceries,Almonds Pack,4,140.43,0.0,Debit Card
+ORD100628,2025-03-31,Nikhil Iyer,East,Office Supplies,Sticky Notes,7,39.46,0.0,Net Banking
+ORD100729,2024-11-15,Pooja Nair,South,Furniture,Standing Desk,8,445.41,0.1,UPI
+ORD101289,2024-09-14,Rohan Patel,Central,Groceries,Almonds Pack,4,468.42,0.15,Net Banking
+ORD100210,2025-08-20,Diya Sharma,Central,Groceries,Green Tea Box,7,78.15,0.15,Credit Card
+ORD100317,not_a_date,Karan Nair,South,Office Supplies,Ballpoint Pens,2,266.5,0.0,Net Banking
+ORD100514,2025-02-18,Sara Reddy,East,Electronics,Wireless Mouse,3,175.09,0.0,Cash on Delivery
+ORD101338,2025-04-20,Karan Sharma,Central,Furniture,Office Chair,2,434.61,0.05,UPI
+ORD100830,2024-09-08,Aditya Nair,West,Groceries,Protein Bars,5,254.99,0.0,UPI
+ORD100320,2025-03-01,Nikhil Patel,East,Groceries,Almonds Pack,2,,0.1,Credit Card
+ORD101032,2024-07-12,Aditya Gupta,South,Office Supplies,Desk Organizer,2,70.49,0.0,Net Banking
+ORD101418,2025-12-19,Sara Sharma,South,Electronics,Laptop Stand,8,12.85,0.0,Debit Card
+ORD100142,2025-11-15,Arjun Sharma,West,Furniture,Office Chair,7,431.57,0.0,Credit Card
+ORD101111,2025-07-18,Karan Singh,West,Groceries,Coffee Beans 1kg,4,428.89,0.0,Net Banking
+ORD100754,2025-11-08,Isha Verma,East,Office Supplies,Desk Organizer,4,325.8,0.1,Credit Card
+ORD101002,2024-05-25,Anjali Nair,East,Furniture,Standing Desk,3,303.06,0.0,Debit Card
+ORD101240,2024-04-28,Vikram Mehta,North,Office Supplies,Ballpoint Pens,7,184.13,0.0,UPI
+ORD100581,2025-09-19,Karan Verma,West,Office Supplies,Whiteboard,4,119.3,0.0,Debit Card
+ORD100563,2024-09-05,Isha Verma,West,Electronics,USB-C Hub,7,165.09,0.1,Net Banking
+ORD100399,2024-03-23,Aarav Singh,East,Groceries,Protein Bars,3,160.14,0.0,Debit Card
+ORD100669,2024-09-05,Priya Singh,Central,Office Supplies,Notebook Pack,3,318.17,0.0,Debit Card
+ORD100253,2024-06-22,Vivaan Mehta,North,Office Supplies,Whiteboard,8,96.1,0.1,Credit Card
+ORD100908,not_a_date,Karan Singh,East,Furniture,Filing Cabinet,8,236.44,0.05,UPI
+ORD100469,2024-02-17,Aditya Reddy,Central,Electronics,USB-C Hub,2,353.35,0.1,Cash on Delivery
+ORD100915,2025-03-25,Rohan Reddy,North,Groceries,Olive Oil 1L,1,190.48,0.1,Net Banking
+ORD100358,2024-05-10,Anjali Sharma,South,Office Supplies,Notebook Pack,7,426.12,0.2,Cash on Delivery
+ORD101279,2024-01-18,Priya Singh,South,Groceries,Almonds Pack,6,382.54,0.15,Cash on Delivery
+ORD101301,2025-04-22,Neha Nair,South,Furniture,Filing Cabinet,4,310.4,0.0,Credit Card
+ORD101203,2024-08-24,Meera Reddy,West,Electronics,Webcam HD,6,16.16,0.2,UPI
+ORD101306,2025-03-05,Sara Verma,Central,Electronics,Wireless Mouse,8,320.55,0.0,UPI
+ORD101415,2024-05-03,Arjun Gupta,South,Groceries,Olive Oil 1L,6,376.09,0.0,Credit Card
+ORD100509,2025-03-07,Aditya Mehta,Central,Groceries,Green Tea Box,6,393.74,0.0,Credit Card
+ORD100750,2025-03-17,Anjali Singh,Central,Office Supplies,Sticky Notes,7,246.29,0.0,Cash on Delivery
+ORD100130,2024-11-16,Isha Verma,North,Furniture,Bookshelf,3,344.98,0.05,Credit Card
+ORD100145,2025-03-22,Sara Gupta,East,Groceries,Olive Oil 1L,2,200.9,0.0,Debit Card
+ORD100961,2025-10-21,Arjun Patel,West,Groceries,Almonds Pack,2,261.68,0.0,UPI
+ORD100848,2024-11-08,Rohan Patel,Central,Furniture,Bookshelf,5,245.53,0.2,Net Banking
+ORD100716,2025-09-04,Pooja Nair,North,Electronics,Bluetooth Speaker,4,155.1,0.2,Cash on Delivery
+ORD100906,2024-07-26,Neha Kapoor,South,Groceries,Green Tea Box,7,113.2,0.05,UPI
+ORD101097,2024-11-23,Karan Iyer,West,Electronics,Webcam HD,7,35.89,0.2,Debit Card
+ORD100236,2025-11-30,Neha Mehta,South,Office Supplies,Sticky Notes,2,93.34,0.1,Debit Card
+ORD101062,2025-09-11,Ananya Iyer,South,Office Supplies,Desk Organizer,7,267.59,0.1,UPI
